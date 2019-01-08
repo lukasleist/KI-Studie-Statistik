@@ -1,0 +1,1163 @@
+,area,conf,institution,name,numauthors,number,pageCount,startPage,title,volume,year,region,from_hessen
+1065,www,WWW,Max Planck Institute,Adish Singla,2,0,12,1167,Truthful incentives in crowdsourcing tasks using regret minimization mechanisms.,0,2013,europe,False
+1066,aaai,AAAI,Max Planck Institute,Adish Singla,4,0,7,152,Stochastic Privacy.,0,2014,europe,False
+1068,icml,ICML,Max Planck Institute,Adish Singla,5,0,9,154,Near-Optimally Teaching the Crowd to Classify.,0,2014,europe,False
+1069,www,WWW,Max Planck Institute,Adish Singla,4,0,12,431,From devices to people: attribution of search activity in multi-user settings.,0,2014,europe,False
+1070,aaai,AAAI,Max Planck Institute,Adish Singla,6,0,7,723,Incentivizing Users for Balancing Bike Sharing Systems.,0,2015,europe,False
+1071,ijcai,IJCAI,Max Planck Institute,Adish Singla,4,0,10,844,Building Hierarchies of Concepts via Crowdsourcing.,0,2015,europe,False
+1072,ijcai,IJCAI,Max Planck Institute,Adish Singla,5,0,98,891,Information Gathering in Networks via Active Exploration.,0,2015,europe,False
+1073,aaai,AAAI,Max Planck Institute,Adish Singla,3,0,7,2037,Noisy Submodular Maximization via Adaptive Sampling with Applications to Crowdsourced Image Collection Summarization.,0,2016,europe,False
+1074,icml,ICML,Max Planck Institute,Adish Singla,3,0,9,412,Actively Learning Hemimetrics with Applications to Eliciting User Preferences.,0,2016,europe,False
+1075,aaai,AAAI,Max Planck Institute,Adish Singla,3,0,7,2667,Selecting Sequences of Items via Submodular Maximization.,0,2017,europe,False
+1076,aaai,AAAI,Max Planck Institute,Adish Singla,4,0,8,1603,Information Gathering With Peers: Submodular Optimization With Peer-Prediction Constraints.,0,2018,europe,False
+1077,aaai,AAAI,Max Planck Institute,Adish Singla,4,0,9,2248,Learning User Preferences to Incentivize Exploration in the Sharing Economy.,0,2018,europe,False
+1078,aaai,AAAI,Max Planck Institute,Adish Singla,3,0,8,4083,Learning to Interact With Learning Agents.,0,2018,europe,False
+1079,kdd,KDD,Max Planck Institute,Adish Singla,7,0,10,2239,A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual &Group Unfairness via Inequality Indices.,0,2018,europe,False
+1080,nips,NeurIPS,Max Planck Institute,Adish Singla,3,0,10,1774,Enhancing the Accuracy and Fairness of Human Decision Making.,0,2018,europe,False
+1081,nips,NeurIPS,Max Planck Institute,Adish Singla,3,0,10,8473,Teaching Inverse Reinforcement Learners via Features and Demonstrations.,0,2018,europe,False
+1082,nips,NeurIPS,Max Planck Institute,Adish Singla,5,0,11,1483,Understanding the Role of Adaptivity in Machine Teaching: The Case of Version Space Learners.,0,2018,europe,False
+12356,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,2,0,10,610,Object Recognition Using Multidimensional Receptive Field Histograms.,0,1996,europe,False
+12358,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,3,0,16,475,Comprehensive Colour Image Normalization.,0,1998,europe,False
+12359,iccv,ICCV,Max Planck Institute,Bernt Schiele,2,0,6,249,Transinformation for Active Object Recognition.,0,1998,europe,False
+12361,iccv,ICCV,Max Planck Institute,Bernt Schiele,2,0,6,177,Probabilistic Object Recognition and Localization.,0,1999,europe,False
+12364,eccv,ECCV (4),Max Planck Institute,Bernt Schiele,2,0,18,49,On Performance Characterization and Optimization for Image Retrieval.,0,2002,europe,False
+12374,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,-1,-1,Towards Robust Pedestrian Detection in Crowded Image Sequences.,0,2007,europe,False
+12375,iccv,ICCV,Max Planck Institute,Bernt Schiele,2,0,8,1,How Good are Local Features for Classes of Geometric Objects.,0,2007,europe,False
+12377,cvpr,CVPR,Max Planck Institute,Bernt Schiele,2,0,-1,-1,"Decomposition, discovery and detection of visual categories using topic models.",0,2008,europe,False
+12378,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,-1,-1,People-tracking-by-detection and people-detection-by-tracking.,0,2008,europe,False
+12379,eccv,ECCV (2),Max Planck Institute,Bernt Schiele,3,0,14,527,Hierarchical Support Vector Random Fields: Joint Training to Combine Local and Global Features.,0,2008,europe,False
+12380,eccv,ECCV (4),Max Planck Institute,Bernt Schiele,2,0,15,733,A Dynamic Conditional Random Field Model for Joint Labeling of Object and Scene Classes.,0,2008,europe,False
+12382,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,2238,Discriminative structure learning of hierarchical representations for object detection.,0,2009,europe,False
+12383,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,794,Multi-cue onboard pedestrian detection.,0,2009,europe,False
+12384,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,304,Pedestrian detection: A benchmark.,0,2009,europe,False
+12385,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,1014,Pictorial structures revisited: People detection and articulated pose estimation.,0,2009,europe,False
+12386,iccv,ICCV,Max Planck Institute,Bernt Schiele,3,0,8,373,A shape-based object class model for knowledge transfer.,0,2009,europe,False
+12387,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,121,Automatic discovery of meaningful object parts with latent CRFs.,0,2010,europe,False
+12388,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,623,Monocular 3D pose estimation and tracking by detection.,0,2010,europe,False
+12389,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,990,Multi-cue pedestrian classification with partial occlusion handling.,0,2010,europe,False
+12390,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,1030,New features and insights for pedestrian detection.,0,2010,europe,False
+12391,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,8,910,What helps where - and why? Semantic relatedness for knowledge transfer.,0,2010,europe,False
+12392,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,3,0,14,720,Extracting Structures in Image Collections for Object Recognition.,0,2010,europe,False
+12393,eccv,ECCV (4),Max Planck Institute,Bernt Schiele,4,0,15,467,Monocular 3D Scene Modeling and Inference: Understanding Multi-Object Traffic Scenes.,0,2010,europe,False
+12394,eccv,ECCV (6),Max Planck Institute,Bernt Schiele,3,0,14,182,"Disparity Statistics for Pedestrian Detection: Combining Appearance, Motion and Stereo.",0,2010,europe,False
+12396,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,1641,Evaluating knowledge transfer and zero-shot learning in a large-scale setting.,0,2011,europe,False
+12397,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,8,1473,Learning people detection models from few training samples.,0,2011,europe,False
+12398,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,1993,Monocular 3D scene understanding with explicit occlusion reasoning.,0,2011,europe,False
+12399,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,1194,A database for fine grained activity detection of cooking activities.,0,2012,europe,False
+12400,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,8,3178,Articulated people detection and pose estimation: Reshaping the future.,0,2012,europe,False
+12401,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,3626,RALF: A reinforced active learning formulation for object class recognition.,0,2012,europe,False
+12402,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,3362,Teaching 3D geometry to deformable part models.,0,2012,europe,False
+12403,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,6,0,14,144,Script Data for Attribute-Based Recognition of Composite Activities.,0,2012,europe,False
+12404,eccv,ECCV (6),Max Planck Institute,Bernt Schiele,4,0,15,356,3D2PM - 3D Deformable Part Models.,0,2012,europe,False
+12405,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,3286,Occlusion Patterns for Object Class Detection.,0,2013,europe,False
+12406,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,588,Poselet Conditioned Pictorial Structures.,0,2013,europe,False
+12407,iccv,ICCV,Max Planck Institute,Bernt Schiele,5,0,8,3527,"A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis.",0,2013,europe,False
+12408,iccv,ICCV,Max Planck Institute,Bernt Schiele,6,0,8,1049,Learning People Detectors for Tracking in Crowded Scenes.,0,2013,europe,False
+12409,iccv,ICCV,Max Planck Institute,Bernt Schiele,4,0,8,3487,Strong Appearance and Expressive Spatial Models for Human Pose Estimation.,0,2013,europe,False
+12410,iccv,ICCV,Max Planck Institute,Bernt Schiele,6,0,8,433,Translating Video Content to Natural Language Descriptions.,0,2013,europe,False
+12411,nips,NIPS,Max Planck Institute,Bernt Schiele,3,0,9,46,Transfer Learning in a Transductive Setting.,0,2013,europe,False
+12412,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,3686,2D Human Pose Estimation: New Benchmark and State of the Art Analysis.,0,2014,europe,False
+12413,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,8,1669,3D Pictorial Structures for Multiple Human Pose Estimation.,0,2014,europe,False
+12414,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,8,1434,Scalable Multitask Representation Learning for Scene Classification.,0,2014,europe,False
+12415,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,8,49,Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation.,0,2014,europe,False
+12416,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,11,3202,A dataset for Movie Description.,0,2015,europe,False
+12417,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,951,Classifier based graph construction for video segmentation.,0,2015,europe,False
+12418,cvpr,CVPR,Max Planck Institute,Bernt Schiele,9,0,9,3810,Efficient ConvNet-based marker-less motion capture in general scenes with a low number of cameras.,0,2015,europe,False
+12419,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,10,2927,Evaluation of output embeddings for fine-grained image classification.,0,2015,europe,False
+12420,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,10,1751,Filtered channel features for pedestrian detection.,0,2015,europe,False
+12421,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,9,5033,Subgraph decomposition for multi-target tracking.,0,2015,europe,False
+12422,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,4073,Taking a deeper look at pedestrians.,0,2015,europe,False
+12423,iccv,ICCV,Max Planck Institute,Bernt Schiele,4,0,9,3862,Person Recognition in Personal Photo Collections.,0,2015,europe,False
+12424,iccv,ICCV,Max Planck Institute,Bernt Schiele,2,0,9,1296,Scalable Nonlinear Embeddings for Semantic Category-Based Image Retrieval.,0,2015,europe,False
+12425,nips,NIPS,Max Planck Institute,Bernt Schiele,4,0,9,1189,Efficient Output Kernel Learning for Multiple Tasks.,0,2015,europe,False
+12426,nips,NIPS,Max Planck Institute,Bernt Schiele,3,0,9,325,Top-k Multiclass SVM.,0,2015,europe,False
+12427,cvpr,CVPR,Max Planck Institute,Bernt Schiele,7,0,9,4929,DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation.,0,2016,europe,False
+12428,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,9,1259,How Far are We from Solving Pedestrian Detection?,0,2016,europe,False
+12429,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,9,69,Latent Embeddings for Zero-Shot Classification.,0,2016,europe,False
+12430,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,49,Learning Deep Representations of Fine-Grained Visual Descriptions.,0,2016,europe,False
+12431,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,10,1468,Loss Functions for Top-k Error: Analysis and Insights.,0,2016,europe,False
+12432,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,59,Multi-cue Zero-Shot Learning with Strong Supervision.,0,2016,europe,False
+12433,cvpr,CVPR,Max Planck Institute,Bernt Schiele,9,0,11,3213,The Cityscapes Dataset for Semantic Urban Scene Understanding.,0,2016,europe,False
+12434,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,10,183,Weakly Supervised Object Boundaries.,0,2016,europe,False
+12435,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,5,0,18,817,Grounding of Textual Phrases in Images by Reconstruction.,0,2016,europe,False
+12436,eccv,ECCV (3),Max Planck Institute,Bernt Schiele,4,0,17,19,Faceless Person Recognition: Privacy Implications in Social Media.,0,2016,europe,False
+12437,eccv,ECCV (4),Max Planck Institute,Bernt Schiele,6,0,17,3,Generating Visual Explanations.,0,2016,europe,False
+12438,eccv,ECCV (6),Max Planck Institute,Bernt Schiele,5,0,17,34,"DeeperCut: A Deeper, Stronger, and Faster Multi-person Pose Estimation Model.",0,2016,europe,False
+12439,icml,ICML,Max Planck Institute,Bernt Schiele,6,0,10,1060,Generative Adversarial Text to Image Synthesis.,0,2016,europe,False
+12441,nips,NIPS,Max Planck Institute,Bernt Schiele,6,0,9,217,Learning What and Where to Draw.,0,2016,europe,False
+12443,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,10,435,A Domain Based Approach to Social Relation Recognition.,0,2017,europe,False
+12444,cvpr,CVPR,Max Planck Institute,Bernt Schiele,7,0,9,1293,ArtTrack: Articulated Multi-Person Tracking in the Wild.,0,2017,europe,False
+12445,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,9,4457,CityPersons: A Diverse Dataset for Pedestrian Detection.,0,2017,europe,False
+12446,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,10,5038,Exploiting Saliency for Object Segmentation from Image Level Labels.,0,2017,europe,False
+12448,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,11,4196,Generating Descriptions with Grounded and Co-referenced People.,0,2017,europe,False
+12449,cvpr,CVPR,Max Planck Institute,Bernt Schiele,10,0,9,1904,"Joint Graph Decomposition & Node Labeling: Problem, Algorithms, Applications.",0,2017,europe,False
+12450,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,9,6469,Learning Non-maximum Suppression.,0,2017,europe,False
+12451,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,10,3491,Learning Video Object Segmentation from Static Images.,0,2017,europe,False
+12452,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,3701,Multiple People Tracking by Lifted Multicut and Person Re-identification.,0,2017,europe,False
+12453,cvpr,CVPR,Max Planck Institute,Bernt Schiele,5,0,10,1665,Simple Does It: Weakly Supervised Instance and Semantic Segmentation.,0,2017,europe,False
+12454,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,10,3077,"Zero-Shot Learning - The Good, the Bad and the Ugly.",0,2017,europe,False
+12455,iccv,ICCV,Max Planck Institute,Bernt Schiele,3,0,10,1491,Adversarial Image Perturbation for Privacy Protection A Game Theory Perspective.,0,2017,europe,False
+12456,iccv,ICCV,Max Planck Institute,Bernt Schiele,5,0,10,4155,Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training.,0,2017,europe,False
+12457,iccv,ICCV,Max Planck Institute,Bernt Schiele,3,0,10,3706,Towards a Visual Privacy Advisor: Understanding and Predicting Privacy Risks in Images.,0,2017,europe,False
+12458,nips,NIPS,Max Planck Institute,Bernt Schiele,6,0,11,405,Pose Guided Person Image Generation.,0,2017,europe,False
+12459,aaai,AAAI,Max Planck Institute,Bernt Schiele,4,0,10,2720,Long-Term Image Boundary Prediction.,0,2018,europe,False
+12460,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,9,8485,"Accurate and Diverse Sampling of Sequences Based on a ""Best of Many"" Sample Objective.",0,2018,europe,False
+12461,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,10,8466,Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images.,0,2018,europe,False
+12462,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,10,99,Disentangled Person Image Generation.,0,2018,europe,False
+12463,cvpr,CVPR,Max Planck Institute,Bernt Schiele,4,0,10,5542,Feature Generating Networks for Zero-Shot Learning.,0,2018,europe,False
+12464,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,9,4194,Long-Term On-Board Prediction of People in Traffic Scenes Under Uncertainty.,0,2018,europe,False
+12465,cvpr,CVPR,Max Planck Institute,Bernt Schiele,7,0,10,8779,Multimodal Explanations: Justifying Decisions and Pointing to the Evidence.,0,2018,europe,False
+12466,cvpr,CVPR,Max Planck Institute,Bernt Schiele,6,0,10,5050,Natural and Effective Obfuscation by Head Inpainting.,0,2018,europe,False
+12467,cvpr,CVPR,Max Planck Institute,Bernt Schiele,3,0,9,6995,Occluded Pedestrian Detection Through Guided Attention in CNNs.,0,2018,europe,False
+12468,cvpr,CVPR,Max Planck Institute,Bernt Schiele,7,0,10,5167,PoseTrack: A Benchmark for Human Pose Estimation and Tracking.,0,2018,europe,False
+12469,eccv,ECCV (1),Max Planck Institute,Bernt Schiele,6,0,17,570,A Hybrid Model for Identity Obfuscation by Face Replacement.,0,2018,europe,False
+12470,eccv,ECCV (16),Max Planck Institute,Bernt Schiele,3,0,16,422,Diverse Conditional Image Generation by Stochastic Regression with Latent Drop-Out Codes.,0,2018,europe,False
+12471,nips,NeurIPS,Max Planck Institute,Bernt Schiele,3,0,11,7717,Adversarial Scene Editing: Automatic Object Removal from Weak Supervision.,0,2018,europe,False
+17881,cvpr,CVPR,Max Planck Institute,Christian Theobalt,4,0,-1,-1,Marker-less Deformable Mesh Tracking for Human Shape and Motion Capture.,0,2007,europe,False
+17883,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,-1,-1,Dense correspondence finding for parametrization-free animation reconstruction from video.,0,2008,europe,False
+17884,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,-1,-1,Robust fusion of dynamic shape and normal capture for high-quality reconstruction of time-varying geometry.,0,2008,europe,False
+17886,cvpr,CVPR,Max Planck Institute,Christian Theobalt,4,0,8,343,LidarBoost: Depth superresolution for ToF 3D shape scanning.,0,2009,europe,False
+17887,cvpr,CVPR,Max Planck Institute,Christian Theobalt,6,0,8,1746,Motion capture using joint skeleton tracking and surface estimation.,0,2009,europe,False
+17889,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,8,1173,3D shape scanning with a time-of-flight camera.,0,2010,europe,False
+17890,cvpr,CVPR,Max Planck Institute,Christian Theobalt,6,0,8,215,Optimal HDR reconstruction with linear digital cameras.,0,2010,europe,False
+17891,eccv,ECCV (4),Max Planck Institute,Christian Theobalt,6,0,14,568,"Joint Estimation of Motion, Structure and Geometry from Stereo Sequences.",0,2010,europe,False
+17894,cvpr,CVPR,Max Planck Institute,Christian Theobalt,4,0,8,969,High-quality shape from multi-view stereo and shading under general illumination.,0,2011,europe,False
+17895,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,8,1249,Markerless motion capture of interacting characters using multi-view image segmentation.,0,2011,europe,False
+17896,iccv,ICCV,Max Planck Institute,Christian Theobalt,5,0,8,1092,A data-driven approach for real-time full body pose reconstruction from a depth camera.,0,2011,europe,False
+17897,iccv,ICCV,Max Planck Institute,Christian Theobalt,5,0,8,951,Fast articulated motion tracking using a sums of Gaussians body model.,0,2011,europe,False
+17898,iccv,ICCV,Max Planck Institute,Christian Theobalt,5,0,8,1108,Shading-based dynamic shape refinement from multi-view video under general illumination.,0,2011,europe,False
+17900,cvpr,CVPR,Max Planck Institute,Christian Theobalt,6,0,8,1870,Spatio-temporal motion tracking with unsynchronized cameras.,0,2012,europe,False
+17901,eccv,ECCV (1),Max Planck Institute,Christian Theobalt,5,0,14,682,Background Inpainting for Videos with Dynamic Objects and a Free-Moving Camera.,0,2012,europe,False
+17902,eccv,ECCV (1),Max Planck Institute,Christian Theobalt,5,0,14,272,Match Graph Construction for Large Image Databases.,0,2012,europe,False
+17903,eccv,ECCV (2),Max Planck Institute,Christian Theobalt,6,0,14,828,Performance Capture of Interacting Characters with Handheld Kinects.,0,2012,europe,False
+17904,eccv,ECCV (4),Max Planck Institute,Christian Theobalt,3,0,14,757,Full Body Performance Capture under Uncontrolled and Varying Illumination: A Shading-Based Approach.,0,2012,europe,False
+17907,iccv,ICCV,Max Planck Institute,Christian Theobalt,3,0,8,881,Curvature-Aware Regularization on Riemannian Submanifolds.,0,2013,europe,False
+17909,iccv,ICCV,Max Planck Institute,Christian Theobalt,4,0,8,1105,Real-Time Body Tracking with One Depth Camera and Inertial Sensors.,0,2013,europe,False
+17915,cvpr,CVPR,Max Planck Institute,Christian Theobalt,6,0,8,4217,Automatic Face Reenactment.,0,2014,europe,False
+17920,cvpr,CVPR,Max Planck Institute,Christian Theobalt,4,0,9,5473,Local high-order regularization on data manifolds.,0,2015,europe,False
+17921,cvpr,CVPR,Max Planck Institute,Christian Theobalt,4,0,9,2188,Semi-supervised learning with explicit relationship regularization.,0,2015,europe,False
+17923,iccv,ICCV,Max Planck Institute,Christian Theobalt,4,0,9,2776,Context-Guided Diffusion for Label Propagation on Graphs.,0,2015,europe,False
+17927,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,9,2387,Face2Face: Real-Time Face Capture and Reenactment of RGB Videos.,0,2016,europe,False
+17930,eccv,ECCV (8),Max Planck Institute,Christian Theobalt,5,0,18,362,VolumeDeform: Real-Time Volumetric Non-rigid Reconstruction.,0,2016,europe,False
+17936,iccv,ICCV,Max Planck Institute,Christian Theobalt,7,0,10,3735,MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction.,0,2017,europe,False
+17937,iccv,ICCV,Max Planck Institute,Christian Theobalt,6,0,10,1163,Real-Time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor.,0,2017,europe,False
+17939,cvpr,CVPR,Max Planck Institute,Christian Theobalt,3,0,10,4310,DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems.,0,2018,europe,False
+17940,cvpr,CVPR,Max Planck Institute,Christian Theobalt,7,0,11,49,GANerated Hands for Real-Time 3D Hand Tracking From Monocular RGB.,0,2018,europe,False
+17943,cvpr,CVPR,Max Planck Institute,Christian Theobalt,7,0,11,2549,Self-Supervised Multi-Level Face Model Learning for Monocular Reconstruction at Over 250 Hz.,0,2018,europe,False
+17944,cvpr,CVPR,Max Planck Institute,Christian Theobalt,5,0,11,8387,Video Based Reconstruction of 3D People Models.,0,2018,europe,False
+18260,ijcai,IJCAI,Max Planck Institute,Christoph Weidenbach,1,0,6,60,Extending the Resolution Method with Sorts.,0,1993,europe,False
+32790,cvpr,CVPR,Max Planck Institute,Eugene W. Myers,5,0,10,5926,Moral Lineage Tracing.,0,2016,europe,False
+37031,kdd,KDD,Max Planck Institute,Gerhard Weikum,3,0,6,712,Combining linguistic and statistical analysis to extract relations from web documents.,0,2006,europe,False
+37037,www,WWW,Max Planck Institute,Gerhard Weikum,3,0,10,697,Yago: a core of semantic knowledge.,0,2007,europe,False
+37039,kdd,KDD,Max Planck Institute,Gerhard Weikum,3,0,9,354,Fast logistic regression for text categorization with variable-length n-grams.,0,2008,europe,False
+37048,www,WWW,Max Planck Institute,Gerhard Weikum,3,0,10,631,SOFIE: a self-organizing framework for information extraction.,0,2009,europe,False
+37055,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,9,0,11,782,Robust Disambiguation of Named Entities in Text.,0,2011,europe,False
+37056,emnlp,EMNLP-CoNLL,Max Planck Institute,Gerhard Weikum,3,0,11,149,A Weakly Supervised Model for Sentence-Level Semantic Orientation Analysis with Multiple Experts.,0,2012,europe,False
+37057,emnlp,EMNLP-CoNLL,Max Planck Institute,Gerhard Weikum,6,0,12,379,Natural Language Questions for the Web of Data.,0,2012,europe,False
+37058,emnlp,EMNLP-CoNLL,Max Planck Institute,Gerhard Weikum,3,0,11,1135,PATTY: A Taxonomy of Relational Patterns with Semantic Types.,0,2012,europe,False
+37059,acl,ACL (1),Max Planck Institute,Gerhard Weikum,3,0,10,1488,Fine-grained Semantic Typing of Emerging Entities.,0,2013,europe,False
+37063,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,3,0,12,374,Werdy: Recognition and Disambiguation of Verbs and Verb Phrases with Syntactic and Semantic Pruning.,0,2014,europe,False
+37066,www,WWW,Max Planck Institute,Gerhard Weikum,3,0,12,385,Discovering emerging entities with ambiguous names.,0,2014,europe,False
+37067,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,2,0,11,846,C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity Linking.,0,2015,europe,False
+37068,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,4,0,11,868,FINET: Context-Aware Fine-Grained Named Entity Typing.,0,2015,europe,False
+37069,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,5,0,11,971,RELLY: Inferring Hypernym Relationships Between Relational Phrases.,0,2015,europe,False
+37070,aaai,AAAI,Max Planck Institute,Gerhard Weikum,6,0,8,243,Commonsense in Parts: Mining Part-Whole Relations from the Web and Image Tags.,0,2016,europe,False
+37071,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,2,0,10,2183,POLY: Mining Relational Paraphrases from Multilingual Sentences.,0,2016,europe,False
+37072,ijcai,IJCAI,Max Planck Institute,Gerhard Weikum,4,0,7,3896,KOGNAC: Efficient Encoding of Large Knowledge Graphs.,0,2016,europe,False
+37073,kdd,KDD,Max Planck Institute,Gerhard Weikum,3,0,10,1075,Continuous Experience-aware Language Model.,0,2016,europe,False
+37075,www,WWW,Max Planck Institute,Gerhard Weikum,4,0,11,915,As Time Goes By: Comprehensive Tagging of Textual Phrases with Temporal Scopes.,0,2016,europe,False
+37078,www,WWW,Max Planck Institute,Gerhard Weikum,4,0,10,1191,Automated Template Generation for Question Answering over Knowledge Graphs.,0,2017,europe,False
+37079,www,WWW,Max Planck Institute,Gerhard Weikum,3,0,10,805,Distilling Task Knowledge from How-To Communities.,0,2017,europe,False
+37080,acl,ACL (2),Max Planck Institute,Gerhard Weikum,5,0,6,241,A Study of the Importance of External Knowledge in the Named Entity Recognition Task.,0,2018,europe,False
+37081,acl,ACL (2),Max Planck Institute,Gerhard Weikum,5,0,8,686,diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora.,0,2018,europe,False
+37082,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,4,0,11,22,DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning.,0,2018,europe,False
+37083,emnlp,EMNLP,Max Planck Institute,Gerhard Weikum,3,0,6,1043,Facts That Matter.,0,2018,europe,False
+37085,www,WWW,Max Planck Institute,Gerhard Weikum,3,0,10,1013,HighLife: Higher-arity Fact Harvesting.,0,2018,europe,False
+37086,www,WWW,Max Planck Institute,Gerhard Weikum,4,0,10,1053,Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases.,0,2018,europe,False
+37326,nips,NeurIPS,Max Planck Institute,Gilles Barthe,3,0,11,6280,Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences.,0,2018,europe,False
+40724,cvpr,CVPR (2),Max Planck Institute,Hans-Peter Seidel,3,0,8,1825,Mesostructure from Specularity.,0,2006,europe,False
+40730,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,4,0,-1,-1,Polarization and Phase-Shifting for 3D Scanning of Translucent Objects.,0,2007,europe,False
+40731,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,3,0,-1,-1,Scaled Motion Dynamics for Markerless Motion Capture.,0,2007,europe,False
+40732,iccv,ICCV,Max Planck Institute,Hans-Peter Seidel,3,0,8,1,Fitting a Morphable Model to 3D Scans of Faces.,0,2007,europe,False
+40735,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,5,0,-1,-1,Demosaicing by smoothing along 1D features.,0,2008,europe,False
+40737,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,3,0,-1,-1,Drift-free tracking of rigid and articulated objects.,0,2008,europe,False
+40739,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,3,0,-1,-1,Modulated phase-shifting for 3D scanning.,0,2008,europe,False
+40752,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,5,0,8,1185,Isometric registration of ambiguous and partial data.,0,2009,europe,False
+40753,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,6,0,8,224,Markerless Motion Capture with unsynchronized moving cameras.,0,2009,europe,False
+40755,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,6,0,8,627,Relighting objects from image collections.,0,2009,europe,False
+40756,iccv,ICCV,Max Planck Institute,Hans-Peter Seidel,4,0,8,963,A probabilistic framework for partial intrinsic symmetries in geometric data.,0,2009,europe,False
+40757,iccv,ICCV,Max Planck Institute,Hans-Peter Seidel,4,0,8,1428,Stabilizing motion tracking using retrieved motion priors.,0,2009,europe,False
+40762,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,4,0,8,1586,Exploiting global connectivity constraints for reconstruction of 3D line segments from images.,0,2010,europe,False
+40763,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,5,0,8,1823,Multilinear pose and body shape estimation of dressed subjects from image sets.,0,2010,europe,False
+40764,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,6,0,8,663,Multisensor-fusion for 3D full-body human motion capture.,0,2010,europe,False
+40777,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,4,0,8,353,Three-dimensional kaleidoscopic imaging.,0,2011,europe,False
+40778,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,4,0,8,1921,Wavelet belief propagation for large scale inference problems.,0,2011,europe,False
+40781,iccv,ICCV,Max Planck Institute,Hans-Peter Seidel,7,0,8,1243,Outdoor human motion capture using inverse kinematics and von mises-fisher sampling.,0,2011,europe,False
+40794,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,6,0,8,89,Discovering the Structure of a Planar Mirror System from Multiple Observations of a Single Point.,0,2013,europe,False
+40795,iccv,ICCV,Max Planck Institute,Hans-Peter Seidel,5,0,8,2848,Fast Face Detector Training Using Tailored Views.,0,2013,europe,False
+40815,cvpr,CVPR,Max Planck Institute,Hans-Peter Seidel,7,0,10,3720,Towards a Quality Metric for Dense Light Fields.,0,2017,europe,False
+60901,kdd,KDD,Max Planck Institute,Krishna P. Gummadi,5,0,10,1799,On the Reliability of Profile Matching Across Large Online Social Networks.,0,2015,europe,False
+60905,nips,NIPS,Max Planck Institute,Krishna P. Gummadi,5,0,11,228,From Parity to Preference-based Notions of Fairness in Classification.,0,2017,europe,False
+60906,www,WWW,Max Planck Institute,Krishna P. Gummadi,4,0,10,1171,Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment.,0,2017,europe,False
+60907,www,WWW,Max Planck Institute,Krishna P. Gummadi,4,0,10,837,Optimizing the Recency-Relevancy Trade-off in Online News Recommendations.,0,2017,europe,False
+60908,aaai,AAAI,Max Planck Institute,Krishna P. Gummadi,4,0,10,51,Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning.,0,2018,europe,False
+60909,icml,ICML,Max Planck Institute,Krishna P. Gummadi,6,0,10,2635,Blind Justice: Fairness with Encrypted Sensitive Attributes.,0,2018,europe,False
+60913,nips,NeurIPS,Max Planck Institute,Krishna P. Gummadi,4,0,11,1273,Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making.,0,2018,europe,False
+60915,www,WWW,Max Planck Institute,Krishna P. Gummadi,4,0,10,903,Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction.,0,2018,europe,False
+61661,acl,ACL,Max Planck Institute,Kurt Mehlhorn,3,0,-1,-1,A Polynomial-Time Fragment of Dominance Constraints.,0,2000,europe,False
+67683,icml,ICML,Max Planck Institute,Manuel Gomez-Rodriguez,3,0,8,561,Uncovering the Temporal Dynamics of Diffusion Networks.,0,2011,europe,False
+67684,icml,ICML,Max Planck Institute,Manuel Gomez-Rodriguez,2,0,-1,-1,Influence Maximization in Continuous Time Diffusion Networks.,0,2012,europe,False
+67685,icml,ICML,Max Planck Institute,Manuel Gomez-Rodriguez,2,0,-1,-1,Submodular Inference of Diffusion Networks from Multiple Trees.,0,2012,europe,False
+67693,nips,NIPS,Max Planck Institute,Manuel Gomez-Rodriguez,5,0,9,397,Learning and Forecasting Opinion Dynamics in Social Networks.,0,2016,europe,False
+67698,www,WWW,Max Planck Institute,Manuel Gomez-Rodriguez,3,0,10,1421,Modeling the Dynamics of Learning Activity on the Web.,0,2017,europe,False
+67699,www,WWW,Max Planck Institute,Manuel Gomez-Rodriguez,2,0,10,659,On the Causal Effect of Badges.,0,2018,europe,False
+73822,aaai,AAAI,Max Planck Institute,Michael J. Black,2,0,7,1060,Constraints for the Early Detection of Discontinuity from Motion.,0,1990,europe,False
+73823,cvpr,CVPR,Max Planck Institute,Michael J. Black,2,0,7,296,Robust dynamic motion estimation over time.,0,1991,europe,False
+73824,eccv,ECCV,Max Planck Institute,Michael J. Black,1,0,9,485,Combining Intensity and Motion for Incremental Segmentation and Tracking Over Long Image Sequences.,0,1992,europe,False
+73825,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,6,231,A framework for the robust estimation of optical flow.,0,1993,europe,False
+73828,eccv,ECCV (1),Max Planck Institute,Michael J. Black,1,0,8,138,Recursive Non-Linear Estimation of Discontinuous Flow Fields.,0,1994,europe,False
+73829,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,374,Tracking and Recognizing Rigid and Non-Rigid Facial Motions Using Local Parametric Models of Image Motion.,0,1995,europe,False
+73832,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,7,595,Analysis of Gesture and Action in Technical Talks for Video Indexing.,0,1997,europe,False
+73837,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,120,Parameterized Modeling and Recognition of Activities.,0,1998,europe,False
+73838,cvpr,CVPR,Max Planck Institute,Michael J. Black,1,0,7,1326,Explaining Optical Flow Events with Parameterized Spatio-Temporal Models.,0,1999,europe,False
+73841,nips,NIPS,Max Planck Institute,Michael J. Black,4,0,7,894,Learning and Tracking Cyclic Human Motion.,0,2000,europe,False
+73842,cvpr,CVPR (2),Max Planck Institute,Michael J. Black,2,0,8,643,Dynamic Coupled Component Analysis.,0,2001,europe,False
+73843,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,709,Learning Image Statistics for Bayesian Tracking.,0,2001,europe,False
+73844,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,362,Robust Principal Component Analysis for Computer Vision.,0,2001,europe,False
+73845,nips,NIPS,Max Planck Institute,Michael J. Black,5,0,8,213,Probabilistic Inference of Hand Motion from Neural Activity in Motor Cortex.,0,2001,europe,False
+73847,eccv,ECCV (1),Max Planck Institute,Michael J. Black,2,0,16,476,Automatic Detection and Tracking of Human Motion with a View-Based Representation.,0,2002,europe,False
+73849,eccv,ECCV (4),Max Planck Institute,Michael J. Black,2,0,17,653,Robust Parameterized Component Analysis.,0,2002,europe,False
+73850,nips,NIPS,Max Planck Institute,Michael J. Black,7,0,8,117,Neural Decoding of Cursor Motion Using a Kalman Filter.,0,2002,europe,False
+73851,iccv,ICCV,Max Planck Institute,Michael J. Black,3,0,8,840,Image Statistics and Anisotropic Diffusion.,0,2003,europe,False
+73855,cvpr,CVPR (2),Max Planck Institute,Michael J. Black,2,0,8,860,Fields of Experts: A Framework for Learning Image Priors.,0,2005,europe,False
+73856,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,42,On the Spatial Statistics of Optical Flow.,0,2005,europe,False
+73858,cvpr,CVPR (1),Max Planck Institute,Michael J. Black,2,0,8,758,An Adaptive Appearance Model Approach for Model-based Articulated Object Tracking.,0,2006,europe,False
+73860,cvpr,CVPR (2),Max Planck Institute,Michael J. Black,2,0,8,1869,Specular Flow and the Recovery of Surface Structure.,0,2006,europe,False
+73864,iccv,ICCV,Max Planck Institute,Michael J. Black,6,0,8,1,A Database and Evaluation Methodology for Optical Flow.,0,2007,europe,False
+73866,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,8,1,Steerable Random Fields.,0,2007,europe,False
+73868,eccv,ECCV (2),Max Planck Institute,Michael J. Black,2,0,15,15,The Naked Truth: Estimating Body Shape Under Clothing.,0,2008,europe,False
+73869,eccv,ECCV (3),Max Planck Institute,Michael J. Black,4,0,15,83,Learning Optical Flow.,0,2008,europe,False
+73870,iccv,ICCV,Max Planck Institute,Michael J. Black,4,0,8,1381,Estimating human shape and pose from a single image.,0,2009,europe,False
+73872,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,8,639,Contour people: A parameterized model of 2D articulated human shape.,0,2010,europe,False
+73873,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,8,2432,Secrets of optical flow estimation and their principles.,0,2010,europe,False
+73874,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,8,747,Tracking people interacting with objects.,0,2010,europe,False
+73875,eccv,ECCV (1),Max Planck Institute,Michael J. Black,3,0,14,285,A 2D Human Body Model Dressed in Eigen Clothing.,0,2010,europe,False
+73877,iccv,ICCV,Max Planck Institute,Michael J. Black,3,0,8,1951,Home 3D body scans from noisy image and range data.,0,2011,europe,False
+73878,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,8,3546,From Pictorial Structures to deformable structures.,0,2012,europe,False
+73880,eccv,ECCV (1),Max Planck Institute,Michael J. Black,2,0,14,1,Lie Bodies: A Manifold Representation of 3D Human Shape.,0,2012,europe,False
+73881,eccv,ECCV (6),Max Planck Institute,Michael J. Black,4,0,15,611,A Naturalistic Open Source Movie for Optical Flow Evaluation.,0,2012,europe,False
+73882,eccv,ECCV (6),Max Planck Institute,Michael J. Black,4,0,14,242,Coregistration: Simultaneous Alignment and Modeling of Articulated 3D Shape.,0,2012,europe,False
+73883,nips,NIPS,Max Planck Institute,Michael J. Black,3,0,9,2033,A Geometric take on Metric Learning.,0,2012,europe,False
+73887,iccv,ICCV,Max Planck Institute,Michael J. Black,4,0,8,3312,Estimating Human Pose with Flowing Puppets.,0,2013,europe,False
+73888,iccv,ICCV,Max Planck Institute,Michael J. Black,5,0,8,3192,Towards Understanding Action Recognition.,0,2013,europe,False
+73889,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,8,3794,FAUST: Dataset and Evaluation for 3D Mesh Registration.,0,2014,europe,False
+73891,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,8,1378,Model Transport: Towards Scalable Transfer Learning on Manifolds.,0,2014,europe,False
+73893,eccv,ECCV (2),Max Planck Institute,Michael J. Black,3,0,16,360,Intrinsic Video.,0,2014,europe,False
+73894,eccv,ECCV (6),Max Planck Institute,Michael J. Black,2,0,17,236,Modeling Blurred Video with Layers.,0,2014,europe,False
+73895,eccv,ECCV (7),Max Planck Institute,Michael J. Black,2,0,16,154,OpenDR: An Approximate Differentiable Renderer.,0,2014,europe,False
+73899,cvpr,CVPR,Max Planck Institute,Michael J. Black,2,0,11,120,Efficient sparse-to-dense optical flow estimation using a learned basis and layers.,0,2015,europe,False
+73901,cvpr,CVPR,Max Planck Institute,Michael J. Black,2,0,10,3537,The stitched puppet: A graphical model of 3D human shape and pose.,0,2015,europe,False
+73902,iccv,ICCV,Max Planck Institute,Michael J. Black,4,0,9,2300,Detailed Full-Body Reconstructions of Moving People from Monocular RGB-D Sequences.,0,2015,europe,False
+73903,iccv,ICCV,Max Planck Institute,Michael J. Black,2,0,9,3514,Intrinsic Depth: Improving Depth Transfer with Intrinsic Images.,0,2015,europe,False
+73907,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,10,3889,Optical Flow with Semantic Segmentation and Localized Layers.,0,2016,europe,False
+73908,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,10,3280,"Patches, Planes and Probabilities: A Non-Local Prior for Volumetric 3D Reconstruction.",0,2016,europe,False
+73909,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,10,3899,Video Segmentation via Object Flow.,0,2016,europe,False
+73910,eccv,ECCV (5),Max Planck Institute,Michael J. Black,6,0,18,561,Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image.,0,2016,europe,False
+73913,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,9,1591,Deep Representation Learning for Human Motion Prediction and Classification.,0,2017,europe,False
+73914,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,10,5484,"Detailed, Accurate, Human Shape Estimation from Clothed 3D Scan Sequences.",0,2017,europe,False
+73915,cvpr,CVPR,Max Planck Institute,Michael J. Black,4,0,10,5573,Dynamic FAUST: Registering Human Bodies in Motion.,0,2017,europe,False
+73917,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,10,4674,On Human Motion Prediction Using Recurrent Neural Networks.,0,2017,europe,False
+73918,cvpr,CVPR,Max Planck Institute,Michael J. Black,2,0,10,2720,Optical Flow Estimation Using a Spatial Pyramid Network.,0,2017,europe,False
+73919,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,10,6911,Optical Flow in Mostly Rigid Scenes.,0,2017,europe,False
+73920,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,10,4531,Semantic Multi-view Stereo: Jointly Estimating Objects and Voxels.,0,2017,europe,False
+73921,cvpr,CVPR,Max Planck Institute,Michael J. Black,5,0,11,1406,Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data.,0,2017,europe,False
+73922,cvpr,CVPR,Max Planck Institute,Michael J. Black,6,0,10,4704,Unite the People: Closing the Loop Between 3D and 2D Human Representations.,0,2017,europe,False
+73928,cvpr,CVPR,Max Planck Institute,Michael J. Black,3,0,9,3955,"Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape From Images.",0,2018,europe,False
+73929,eccv,ECCV (10),Max Planck Institute,Michael J. Black,5,0,18,614,Recovering Accurate 3D Human Pose in the Wild Using IMUs and a Moving Camera.,0,2018,europe,False
+73930,eccv,ECCV (16),Max Planck Institute,Michael J. Black,5,0,19,713,Unsupervised Learning of Multi-Frame Optical Flow with Occlusions.,0,2018,europe,False
+73931,eccv,ECCV (3),Max Planck Institute,Michael J. Black,4,0,17,725,Generating 3D Faces Using Convolutional Mesh Autoencoders.,0,2018,europe,False
+95366,aaai,AAAI,Max Planck Institute,Rupak Majumdar,4,0,8,245,Synthesis of Geometry Proof Problems.,0,2014,europe,False
+109892,icml,ICML,Max Planck Institute,Thomas Lengauer,4,0,8,56,Multi-task learning for HIV therapy screening.,0,2008,europe,False
+2595,www,WWW,LMU Munich,Albrecht Schmidt 0001,2,0,9,745,Visitor awareness in the web.,0,2001,europe,False
+2599,www,WWW,LMU Munich,Albrecht Schmidt 0001,3,0,10,203,Knowing the user's every move: user activity tracking for website usability evaluation and implicit interaction.,0,2006,europe,False
+6358,aaai,AAAI/IAAI,LMU Munich,Andreas Butz,1,0,6,957,Animation with CATHI.,0,1997,europe,False
+28292,www,WWW,LMU Munich,Dirk Beyer 0001,3,0,12,148,Web service interfaces.,0,2005,europe,False
+40649,kdd,KDD,LMU Munich,Hans-Peter Kriegel,3,0,6,94,A Database Interface for Clustering in Large Spatial Databases.,0,1995,europe,False
+40651,kdd,KDD,LMU Munich,Hans-Peter Kriegel,4,0,6,226,A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise.,0,1996,europe,False
+40653,kdd,KDD,LMU Munich,Hans-Peter Kriegel,4,0,6,10,Density-Connected Sets and their Application for Trend Detection in Spatial Databases.,0,1997,europe,False
+40659,kdd,KDD,LMU Munich,Hans-Peter Kriegel,4,0,7,44,Algorithms for Characterization and Trend Detection in Spatial Databases.,0,1998,europe,False
+40669,kdd,KDD,LMU Munich,Hans-Peter Kriegel,3,0,10,179,Towards an effective cooperation of the user and the computer for classification.,0,2000,europe,False
+40675,kdd,KDD,LMU Munich,Hans-Peter Kriegel,3,0,10,249,"Web site mining: a new way to spot competitors, customers and suppliers in the world wide web.",0,2002,europe,False
+40678,icml,ICML,LMU Munich,Hans-Peter Kriegel,5,0,8,1004,Dirichlet enhanced relational learning.,0,2005,europe,False
+40680,kdd,KDD,LMU Munich,Hans-Peter Kriegel,2,0,6,672,Density-based clustering of uncertain data.,0,2005,europe,False
+40681,icml,ICML,LMU Munich,Hans-Peter Kriegel,4,0,8,1089,Collaborative ordinal regression.,0,2006,europe,False
+40683,kdd,KDD,LMU Munich,Hans-Peter Kriegel,5,0,10,4,Deriving quantitative models for correlation clusters.,0,2006,europe,False
+40684,kdd,KDD,LMU Munich,Hans-Peter Kriegel,5,0,10,464,Supervised probabilistic principal component analysis.,0,2006,europe,False
+40685,kdd,KDD,LMU Munich,Hans-Peter Kriegel,3,0,9,444,Angle-based outlier detection in high-dimensional data.,0,2008,europe,False
+40687,kdd,KDD,LMU Munich,Hans-Peter Kriegel,5,0,10,119,Probabilistic frequent itemset mining in uncertain databases.,0,2009,europe,False
+40691,icml,ICML,LMU Munich,Hans-Peter Kriegel,3,0,8,809,A Three-Way Model for Collective Learning on Multi-Relational Data.,0,2011,europe,False
+40694,www,WWW,LMU Munich,Hans-Peter Kriegel,3,0,10,271,Factorizing YAGO: scalable machine learning for linked data.,0,2012,europe,False
+40696,kdd,KDD,LMU Munich,Hans-Peter Kriegel,3,0,10,871,SigniTrend: scalable detection of emerging topics in textual streams by hashed significance thresholds.,0,2014,europe,False
+72169,ijcai,IJCAI,LMU Munich,Matthias Schubert,2,0,7,4822,Dynamic Resource Routing using Real-Time Dynamic Programming.,0,2018,europe,False
+110192,iccv,ICCV,LMU Munich,Thomas Seidl 0001,4,0,8,1754,Modeling image similarity by Gaussian mixture models and the Signature Quadratic Form Distance.,0,2011,europe,False
+110195,kdd,KDD,LMU Munich,Thomas Seidl 0001,4,0,9,1258,Mining coherent subgraphs in multi-layer graphs with edge labels.,0,2012,europe,False
+110196,kdd,KDD,LMU Munich,Thomas Seidl 0001,3,0,9,132,Multi-view clustering using mixture models in subspace projections.,0,2012,europe,False
+110197,kdd,KDD,LMU Munich,Thomas Seidl 0001,4,0,9,352,Subspace correlation clustering: finding locally correlated dimensions in subspace projections of the data.,0,2012,europe,False
+110199,kdd,KDD,LMU Munich,Thomas Seidl 0001,4,0,10,253,SMVC: semi-supervised multi-view clustering in subspace projections.,0,2014,europe,False
+115789,nips,NIPS,LMU Munich,Volker Tresp,1,0,7,306,A Neural Network Approach for Three-Dimensional Object Recognition.,0,1990,europe,False
+115790,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,659,Neural Control for Rolling Mills: Incorporating Domain Theories to Overcome Data Deficiency.,0,1991,europe,False
+115791,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,871,Network Structuring and Training Using Rule-Based Knowledge.,0,1992,europe,False
+115792,nips,NIPS,LMU Munich,Volker Tresp,2,0,8,393,Some Solutions to the Missing Feature Problem in Vision.,0,1992,europe,False
+115793,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,128,Training Neural Networks with Deficient Data.,0,1993,europe,False
+115794,nips,NIPS,LMU Munich,Volker Tresp,2,0,8,419,Combining Estimators Using Non-Constant Weighting Functions.,0,1994,europe,False
+115795,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,689,Efficient Methods for Dealing with Missing Data in Supervised Learning.,0,1994,europe,False
+115796,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,500,Discovering Structure in Continuous Variables Using Bayesian Networks.,0,1995,europe,False
+115797,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,542,Improved Gaussian Mixture Density Estimates Using Bayesian Penalty Terms and Network Averaging.,0,1995,europe,False
+115798,nips,NIPS,LMU Munich,Volker Tresp,3,0,7,669,Early Brain Damage.,0,1996,europe,False
+115799,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,971,A Solution for Missing Data in Recurrent Neural Networks with an Application to Blood Glucose Prediction.,0,1997,europe,False
+115800,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,521,Nonlinear Markov Networks for Continuous Variables.,0,1997,europe,False
+115801,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,889,Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model.,0,1998,europe,False
+115802,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,403,Fisher Scoring and a Mixture of Modes Approach for Approximate Inference and Learning in Nonlinear State Space Models.,0,1998,europe,False
+115803,nips,NIPS,LMU Munich,Volker Tresp,2,0,7,407,Robust Neural Network Regression for Offline and Online Learning.,0,1999,europe,False
+115804,kdd,KDD,LMU Munich,Volker Tresp,1,0,10,130,The generalized Bayesian committee machine.,0,2000,europe,False
+115805,nips,NIPS,LMU Munich,Volker Tresp,1,0,7,654,Mixtures of Gaussian Processes.,0,2000,europe,False
+115806,nips,NIPS,LMU Munich,Volker Tresp,5,0,8,1409,The RA Scanner: Prediction of Rheumatoid Joint Inflammation Based on Laser Imaging.,0,2002,europe,False
+115807,nips,NIPS,LMU Munich,Volker Tresp,2,0,8,953,Transductive and Inductive Methods for Approximate Gaussian Process Regression.,0,2002,europe,False
+115808,nips,NIPS,LMU Munich,Volker Tresp,4,0,8,579,GPPS: A Gaussian Process Positioning System for Cellular Networks.,0,2003,europe,False
+115809,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,1209,Learning Gaussian Process Kernels via Hierarchical Bayes.,0,2004,europe,False
+115811,cvpr,CVPR (2),LMU Munich,Volker Tresp,3,0,6,597,Multi-Output Regularized Projection.,0,2005,europe,False
+115813,icml,ICML,LMU Munich,Volker Tresp,3,0,8,1012,Learning Gaussian processes from multiple tasks.,0,2005,europe,False
+115814,nips,NIPS,LMU Munich,Volker Tresp,3,0,8,1553,Soft Clustering on Graphs.,0,2005,europe,False
+115819,nips,NIPS,LMU Munich,Volker Tresp,5,0,8,1553,Stochastic Relational Models for Discriminative Link Prediction.,0,2006,europe,False
+115820,icml,ICML,LMU Munich,Volker Tresp,3,0,8,1103,Robust multi-task learning with -processes.,0,2007,europe,False
+115825,nips,NIPS,LMU Munich,Volker Tresp,3,0,9,1179,Reducing the Rank in Relational Factorization Models by Including Observable Patterns.,0,2014,europe,False
+115826,icml,ICML,LMU Munich,Volker Tresp,3,0,10,3891,Tensor-Train Recurrent Neural Networks for Video Classification.,0,2017,europe,False
+4591,acl,ACL/IJCNLP,TU Munich,Alois Knoll,3,0,9,879,Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System.,0,2009,europe,False
+4592,ijcai,IJCAI,TU Munich,Alois Knoll,6,0,6,1818,Evaluating Description and Reference Strategies in a Cooperative Human-Robot Dialogue System.,0,2009,europe,False
+4612,iccv,ICCV,TU Munich,Alois Knoll,4,0,8,2360,PM-Huber: PatchMatch with Huber Regularization for Stereo Matching.,0,2013,europe,False
+4624,iccv,ICCV,TU Munich,Alois Knoll,4,0,9,882,Variational PatchMatch MultiView Reconstruction and Refinement.,0,2015,europe,False
+13042,iccv,ICCV,TU Munich,Bjoern H. Menze,7,0,10,4705,Efficient Algorithms for Moral Lineage Tracing.,0,2017,europe,False
+15745,eccv,ECCV (1),TU Munich,Carsten Steger,1,0,12,630,Extracting Curvilinear Structures: A Differential Geometric Approach.,0,1996,europe,False
+15746,cvpr,CVPR,TU Munich,Carsten Steger,1,0,7,116,Removing the bias from line detection.,0,1997,europe,False
+15747,iccv,ICCV,TU Munich,Carsten Steger,1,0,7,884,Subpixel-Precise Extraction of Watersheds.,0,1999,europe,False
+19606,aaai,AAAI,TU Munich,Claudia Eckert,2,0,-1,-1,Lazy Gaussian Process Committee for Real-Time Online Regression.,0,2013,europe,False
+19609,icml,ICML,TU Munich,Claudia Eckert,6,0,10,1689,Is Feature Selection Secure against Training Data Poisoning?,0,2015,europe,False
+21737,eccv,ECCV (2),TU Munich,Daniel Cremers,3,0,16,93,Nonlinear Shape Statistics in Mumford-Shah Based Segmentation.,0,2002,europe,False
+21738,cvpr,CVPR (1),TU Munich,Daniel Cremers,1,0,6,53,A Variational Framework for Image Segmentation Combining Motion Estimation and Shape Regularization.,0,2003,europe,False
+21739,iccv,ICCV,TU Munich,Daniel Cremers,4,0,7,1236,Dynamic Texture Segmentation.,0,2003,europe,False
+21740,iccv,ICCV,TU Munich,Daniel Cremers,2,0,8,886,Variational Space-Time Motion Segmentation.,0,2003,europe,False
+21741,cvpr,CVPR (1),TU Munich,Daniel Cremers,4,0,7,36,Shedding Light on Stereoscopic Segmentation.,0,2004,europe,False
+21742,eccv,ECCV (4),TU Munich,Daniel Cremers,3,0,13,74,Multiphase Dynamic Labeling for Variational Recognition-Driven Image Segmentation.,0,2004,europe,False
+21743,cvpr,CVPR (2),TU Munich,Daniel Cremers,3,0,7,1777,Nonparametric Priors on the Space of Joint Intensity Distributions for Non-Rigid Multi-Modal Image Registration.,0,2006,europe,False
+21744,eccv,ECCV (2),TU Munich,Daniel Cremers,4,0,14,98,High Accuracy Optical Flow Serves 3-D Pose Tracking: Exploiting Contour and Flow Based Constraints.,0,2006,europe,False
+21745,eccv,ECCV (3),TU Munich,Daniel Cremers,4,0,14,409,An Integral Solution to Surface Evolution PDEs Via Geo-cuts.,0,2006,europe,False
+21746,eccv,ECCV (3),TU Munich,Daniel Cremers,2,0,12,263,Statistical Priors for Efficient Combinatorial Optimization Via Graph Cuts.,0,2006,europe,False
+21747,cvpr,CVPR,TU Munich,Daniel Cremers,1,0,-1,-1,Nonlinear Dynamical Shape Priors for Level Set Segmentation.,0,2007,europe,False
+21748,iccv,ICCV,TU Munich,Daniel Cremers,3,0,6,1,Fast Matching of Planar Shapes in Sub-cubic Runtime.,0,2007,europe,False
+21749,iccv,ICCV,TU Munich,Daniel Cremers,2,0,6,1,Globally Optimal Image Segmentation with an Elastic Shape Prior.,0,2007,europe,False
+21750,iccv,ICCV,TU Munich,Daniel Cremers,2,0,6,1,Introducing Curvature into Globally Optimal Image Segmentation: Minimum Ratio Cycles on Product Graphs.,0,2007,europe,False
+21751,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,-1,-1,Globally optimal shape-based tracking in real-time.,0,2008,europe,False
+21752,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,-1,-1,High resolution motion layer decomposition using dual-space graph cuts.,0,2008,europe,False
+21753,cvpr,CVPR,TU Munich,Daniel Cremers,6,0,-1,-1,Markerless motion capture of man-machine interaction.,0,2008,europe,False
+21754,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,-1,-1,Matching non-rigidly deformable shapes across images: A globally optimal solution.,0,2008,europe,False
+21755,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,-1,-1,"Shape priors in variational image segmentation: Convexity, Lipschitz continuity and globally optimal solutions.",0,2008,europe,False
+21756,eccv,ECCV (1),TU Munich,Daniel Cremers,5,0,14,332,An Experimental Comparison of Discrete and Continuous Shape Optimization Methods.,0,2008,europe,False
+21757,eccv,ECCV (1),TU Munich,Daniel Cremers,6,0,13,739,Efficient Dense Scene Flow from Sparse or Dense Stereo Data.,0,2008,europe,False
+21758,eccv,ECCV (1),TU Munich,Daniel Cremers,2,0,14,752,Integration of Multiview Stereo and Silhouettes Via Convex Functionals on Convex Domains.,0,2008,europe,False
+21759,eccv,ECCV (3),TU Munich,Daniel Cremers,5,0,14,792,A Convex Formulation of Continuous Multi-label Problems.,0,2008,europe,False
+21760,eccv,ECCV (4),TU Munich,Daniel Cremers,4,0,14,677,Continuous Energy Minimization Via Repeated Binary Fusion.,0,2008,europe,False
+21761,cvpr,CVPR,TU Munich,Daniel Cremers,4,0,8,810,A convex relaxation approach for computing minimal partitions.,0,2009,europe,False
+21762,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,7,1858,Continuous ratio optimization via convex relaxation with applications to multiview 3D reconstruction.,0,2009,europe,False
+21763,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,6,351,Efficient planar graph cuts with applications in Computer Vision.,0,2009,europe,False
+21764,iccv,ICCV,TU Munich,Daniel Cremers,4,0,8,1133,An algorithm for minimizing the Mumford-Shah functional.,0,2009,europe,False
+21765,iccv,ICCV,TU Munich,Daniel Cremers,3,0,6,717,Beyond connecting the dots: A polynomial-time algorithm for segmentation and boundary estimation with imprecise user input.,0,2009,europe,False
+21766,iccv,ICCV,TU Munich,Daniel Cremers,3,0,7,17,Curvature regularity for region-based image segmentation and inpainting: A linear programming relaxation.,0,2009,europe,False
+21767,iccv,ICCV,TU Munich,Daniel Cremers,3,0,6,1609,Large displacement optical flow computation withoutwarping.,0,2009,europe,False
+21768,iccv,ICCV,TU Munich,Daniel Cremers,4,0,6,1663,Structure- and motion-adaptive regularization for high accuracy optic flow.,0,2009,europe,False
+21769,iccv,ICCV,TU Munich,Daniel Cremers,2,0,8,1677,Superresolution texture maps for multiview reconstruction.,0,2009,europe,False
+21770,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,7,327,An approach to vectorial total variation based on geometric measure theory.,0,2010,europe,False
+21771,eccv,ECCV (3),TU Munich,Daniel Cremers,3,0,14,538,Anisotropic Minimal Surfaces Integrating Photoconsistency and Normal Information for Multiview Stereo.,0,2010,europe,False
+21772,eccv,ECCV (5),TU Munich,Daniel Cremers,2,0,14,225,Convex Relaxation for Multilabel Problems with Product Label Spaces.,0,2010,europe,False
+21773,cvpr,CVPR,TU Munich,Daniel Cremers,2,0,7,1905,Total variation for cyclic structures: Convex relaxation and efficient minimization.,0,2011,europe,False
+21774,iccv,ICCV,TU Munich,Daniel Cremers,2,0,8,2236,A convex framework for image segmentation with moment constraints.,0,2011,europe,False
+21775,iccv,ICCV,TU Munich,Daniel Cremers,4,0,8,1411,Decoupling photometry and geometry in dense variational camera calibration.,0,2011,europe,False
+21776,iccv,ICCV,TU Munich,Daniel Cremers,2,0,8,2619,Generalized ordering constraints for multilabel optimization.,0,2011,europe,False
+21777,iccv,ICCV,TU Munich,Daniel Cremers,4,0,8,2134,Geometrically consistent elastic matching of 3D shapes: A linear programming solution.,0,2011,europe,False
+21778,iccv,ICCV,TU Munich,Daniel Cremers,2,0,8,1267,Introducing total curvature for image processing.,0,2011,europe,False
+21779,iccv,ICCV,TU Munich,Daniel Cremers,3,0,8,2328,Tight convex relaxations for vector-valued labeling problems.,0,2011,europe,False
+21780,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,8,1712,A convex representation for the vectorial Mumford-Shah functional.,0,2012,europe,False
+21781,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,8,534,Fast and globally optimal single view reconstruction of curved objects.,0,2012,europe,False
+21782,eccv,ECCV (6),TU Munich,Daniel Cremers,3,0,14,400,Generalized Roof Duality for Multi-Label Optimization: Optimal Lower Bounds and Persistency.,0,2012,europe,False
+21783,eccv,ECCV (7),TU Munich,Daniel Cremers,3,0,14,208,Nonmetric Priors for Continuous Multilabel Optimization.,0,2012,europe,False
+21789,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,8,177,Relative Volume Constraints for Single View 3D Reconstruction.,0,2013,europe,False
+21790,iccv,ICCV,TU Munich,Daniel Cremers,5,0,8,1169,Elastic Net Constraints for Shape Matching.,0,2013,europe,False
+21791,iccv,ICCV,TU Munich,Daniel Cremers,3,0,8,3264,Large-Scale Multi-resolution Surface Reconstruction from RGB-D Sequences.,0,2013,europe,False
+21792,iccv,ICCV,TU Munich,Daniel Cremers,3,0,8,2328,Proportion Priors for Image Sequence Segmentation.,0,2013,europe,False
+21793,iccv,ICCV,TU Munich,Daniel Cremers,3,0,8,1449,Semi-dense Visual Odometry for a Monocular Camera.,0,2013,europe,False
+21794,iccv,ICCV,TU Munich,Daniel Cremers,4,0,8,2944,Total Variation Regularization for Functions with Values in a Manifold.,0,2013,europe,False
+21795,iccv,ICCV,TU Munich,Daniel Cremers,3,0,8,2336,Tree Shape Priors with Connectivity Constraints Using Convex Relaxation on General Graphs.,0,2013,europe,False
+21800,cvpr,CVPR,TU Munich,Daniel Cremers,5,0,8,4177,Dense Non-rigid Shape Correspondence Using Random Forests.,0,2014,europe,False
+21801,cvpr,CVPR,TU Munich,Daniel Cremers,4,0,8,4082,Sequential Convex Relaxation for Mutual Information-Based Unsupervised Figure-Ground Segmentation.,0,2014,europe,False
+21802,eccv,ECCV (2),TU Munich,Daniel Cremers,3,0,16,834,LSD-SLAM: Large-Scale Direct Monocular SLAM.,0,2014,europe,False
+21803,eccv,ECCV (2),TU Munich,Daniel Cremers,2,0,15,127,Real-Time Minimization of the Piecewise Smooth Mumford-Shah Functional.,0,2014,europe,False
+21804,eccv,ECCV (4),TU Munich,Daniel Cremers,3,0,15,32,Generalized Connectivity Constraints for Spatio-temporal 3D Reconstruction.,0,2014,europe,False
+21805,eccv,ECCV (6),TU Munich,Daniel Cremers,4,0,17,285,Co-Sparse Textural Similarity for Interactive Segmentation.,0,2014,europe,False
+21808,cvpr,CVPR,TU Munich,Daniel Cremers,6,0,10,3003,Adopting an unconstrained ray model in light-field cameras for 3D shape reconstruction.,0,2015,europe,False
+21809,iccv,ICCV,TU Munich,Daniel Cremers,3,0,9,2264,Dense Continuous-Time Tracking and Mapping with Rolling Shutter RGB-D Cameras.,0,2015,europe,False
+21810,iccv,ICCV,TU Munich,Daniel Cremers,6,0,9,1778,Entropy Minimization for Convex Relaxation Approaches.,0,2015,europe,False
+21811,iccv,ICCV,TU Munich,Daniel Cremers,9,0,9,2758,FlowNet: Learning Optical Flow with Convolutional Networks.,0,2015,europe,False
+21812,iccv,ICCV,TU Munich,Daniel Cremers,4,0,9,289,Learning Nonlinear Spectral Filters for Color Image Reconstruction.,0,2015,europe,False
+21813,iccv,ICCV,TU Munich,Daniel Cremers,8,0,9,3577,Model-Based Tracking at 300Hz Using Raw Time-of-Flight Observations.,0,2015,europe,False
+21819,cvpr,CVPR,TU Munich,Daniel Cremers,7,0,9,4040,"A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation.",0,2016,europe,False
+21820,cvpr,CVPR,TU Munich,Daniel Cremers,5,0,9,2185,Efficient Globally Optimal 2D-to-3D Deformable Shape Matching.,0,2016,europe,False
+21821,cvpr,CVPR,TU Munich,Daniel Cremers,5,0,9,3948,Sublabel-Accurate Relaxation of Nonconvex Energies.,0,2016,europe,False
+21822,eccv,ECCV (1),TU Munich,Daniel Cremers,5,0,14,614,Sublabel-Accurate Convex Relaxation of Vectorial Multilabel Energies.,0,2016,europe,False
+21823,eccv,ECCV (2),TU Munich,Daniel Cremers,2,0,16,853,A Convex Solution to Spatially-Regularized Correspondence Problems.,0,2016,europe,False
+21824,eccv,ECCV (2),TU Munich,Daniel Cremers,4,0,16,327,Non-rigid 3D Shape Retrieval via Large Margin Nearest Neighbor Embedding.,0,2016,europe,False
+21828,nips,NIPS,TU Munich,Daniel Cremers,7,0,9,4215,Protein contact prediction from amino acid co-evolution using convolutional networks for graph-valued images.,0,2016,europe,False
+21829,cvpr,CVPR,TU Munich,Daniel Cremers,4,0,10,1436,A Combinatorial Solution to Non-Rigid 3D Shape-to-Image Matching.,0,2017,europe,False
+21830,cvpr,CVPR,TU Munich,Daniel Cremers,5,0,10,350,A Non-convex Variational Approach to Photometric Stereo under Inaccurate Lighting.,0,2017,europe,False
+21831,cvpr,CVPR,TU Munich,Daniel Cremers,5,0,9,2575,An Efficient Background Term for 3D Reconstruction and Tracking with Smooth Surface Models.,0,2017,europe,False
+21832,cvpr,CVPR,TU Munich,Daniel Cremers,4,0,10,5474,KillingFusion: Non-rigid 3D Reconstruction without Correspondences.,0,2017,europe,False
+21833,cvpr,CVPR,TU Munich,Daniel Cremers,3,0,10,626,Learning by Association - A Versatile Semi-Supervised Training Method for Neural Networks.,0,2017,europe,False
+21834,cvpr,CVPR,TU Munich,Daniel Cremers,6,0,10,5320,One-Shot Video Object Segmentation.,0,2017,europe,False
+21836,iccv,ICCV,TU Munich,Daniel Cremers,4,0,9,2784,Associative Domain Adaptation.,0,2017,europe,False
+21837,iccv,ICCV,TU Munich,Daniel Cremers,6,0,11,627,Image-Based Localization Using LSTMs for Structured Feature Correlation.,0,2017,europe,False
+21838,iccv,ICCV,TU Munich,Daniel Cremers,5,0,9,3133,Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting.,0,2017,europe,False
+21839,iccv,ICCV,TU Munich,Daniel Cremers,4,0,10,1799,Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems.,0,2017,europe,False
+21840,iccv,ICCV,TU Munich,Daniel Cremers,3,0,9,3923,Stereo DSO: Large-Scale Direct Sparse Visual Odometry with Stereo Cameras.,0,2017,europe,False
+21841,iccv,ICCV,TU Munich,Daniel Cremers,2,0,9,1192,Sublabel-Accurate Discretization of Nonconvex Free-Discontinuity Problems.,0,2017,europe,False
+21846,cvpr,CVPR,TU Munich,Daniel Cremers,8,0,11,1614,Discrete-Continuous ADMM for Transductive Inference in Higher-Order MRFs.,0,2018,europe,False
+21847,cvpr,CVPR,TU Munich,Daniel Cremers,4,0,11,164,Fight Ill-Posedness With Ill-Posedness: Single-Shot Variational Depth Super-Resolution From Shading.,0,2018,europe,False
+21848,eccv,ECCV (4),TU Munich,Daniel Cremers,3,0,18,698,DeepWrinkles: Accurate and Realistic Clothing Modeling.,0,2018,europe,False
+21849,eccv,ECCV (8),TU Munich,Daniel Cremers,4,0,18,835,Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry.,0,2018,europe,False
+21850,eccv,ECCV (8),TU Munich,Daniel Cremers,5,0,16,699,Direct Sparse Odometry with Rolling Shutter.,0,2018,europe,False
+21851,eccv,ECCV (8),TU Munich,Daniel Cremers,3,0,16,341,MRF Optimization with Separable Convex Prior on Partially Ordered Labels.,0,2018,europe,False
+23305,eccv,ECCV (2),TU Munich,Darius Burschka,5,0,14,183,Adaptive and Generic Corner Detection Based on the Accelerated Segment Test.,0,2010,europe,False
+36167,aaai,AAAI,TU Munich,Georg Klinker,4,0,6,488,A KNACK for Knowledge Acquisition.,0,1987,europe,False
+36729,iccv,ICCV,TU Munich,Gerd Hirzinger,2,0,6,1035,Intensity and Feature Based Stereo Matching by Disparity Parametrization.,0,1998,europe,False
+36754,eccv,ECCV (3),TU Munich,Gerd Hirzinger,2,0,16,791,Probabilistic Search for Object Segmentation and Recognition.,0,2002,europe,False
+36821,cvpr,CVPR,TU Munich,Gerd Hirzinger,2,0,-1,-1,Extrinsic and depth calibration of ToF-cameras.,0,2008,europe,False
+40604,www,WWW,TU Munich,Hans-Arno Jacobsen,3,0,10,785,A distributed framework for reliable and efficient service choreographies.,0,2011,europe,False
+50453,www,WWW,TU Munich,Jens Grossklags,3,0,10,209,Secure or insure?: a game-theoretic analysis of information security games.,0,2008,europe,False
+79302,cvpr,CVPR,TU Munich,Nassir Navab,2,0,7,254,Monocular pose determination from lines: critical sets and maximum number of solutions.,0,1993,europe,False
+79303,iccv,ICCV,TU Munich,Nassir Navab,3,0,11,713,The critical sets of lines for camera displacement estimation: A mixed Euclidean-projective and constructive approach.,0,1993,europe,False
+79305,cvpr,CVPR,TU Munich,Nassir Navab,4,0,8,2349,"Fusion of Color, Shading and Boundary Information for Factory Pipe Segmentation.",0,2000,europe,False
+79306,cvpr,CVPR,TU Munich,Nassir Navab,3,0,8,2607,Lines in One Orthographic and Two Perspective Views.,0,2000,europe,False
+79307,cvpr,CVPR,TU Munich,Nassir Navab,2,0,8,1193,Recovering Projection Geometry: How a Cheap Camera Can Outperform an Expensive Stereo System.,0,2000,europe,False
+79308,cvpr,CVPR,TU Munich,Nassir Navab,5,0,8,2327,Visual Servoing for Automatic and Uncalibrated Needle Placement for Percutaneous Procedures.,0,2000,europe,False
+79309,cvpr,CVPR,TU Munich,Nassir Navab,4,0,-1,-1,Linear and Quadratic Subsets for Template-Based Tracking.,0,2007,europe,False
+79310,iccv,ICCV,TU Munich,Nassir Navab,6,0,8,1,A Unified and Efficient Approach for Free-form Deformable Registration.,0,2007,europe,False
+79311,iccv,ICCV,TU Munich,Nassir Navab,3,0,7,1,N3M: Natural 3D Markers for Real-Time Object Detection and Pose Estimation.,0,2007,europe,False
+79313,aaai,AAAI,TU Munich,Nassir Navab,5,0,7,1718,On-line Recognition of Surgical Activity for Monitoring in the Operating Room.,0,2008,europe,False
+79316,cvpr,CVPR,TU Munich,Nassir Navab,3,0,-1,-1,Image based rendering for motion compensation in angiographic roadmapping.,0,2008,europe,False
+79317,cvpr,CVPR,TU Munich,Nassir Navab,5,0,-1,-1,Online learning of patch perspective rectification for efficient object detection.,0,2008,europe,False
+79320,cvpr,CVPR,TU Munich,Nassir Navab,4,0,8,1177,Distance transform templates for object detection and pose estimation.,0,2009,europe,False
+79321,cvpr,CVPR,TU Munich,Nassir Navab,5,0,8,2945,Real-time learning of accurate patch rectification.,0,2009,europe,False
+79322,cvpr,CVPR,TU Munich,Nassir Navab,2,0,8,667,Similarity metrics and efficient optimization for simultaneous registration.,0,2009,europe,False
+79323,cvpr,CVPR,TU Munich,Nassir Navab,5,0,8,2184,Wavelet energy map: A robust support for multi-modal registration of medical images.,0,2009,europe,False
+79324,iccv,ICCV,TU Munich,Nassir Navab,6,0,8,1601,Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,0,2009,europe,False
+79325,cvpr,CVPR,TU Munich,Nassir Navab,3,0,8,1807,Adaptive linear predictors for real-time tracking.,0,2010,europe,False
+79326,cvpr,CVPR,TU Munich,Nassir Navab,5,0,8,2257,Dominant orientation templates for real-time detection of texture-less objects.,0,2010,europe,False
+79327,cvpr,CVPR,TU Munich,Nassir Navab,4,0,8,998,"Model globally, match locally: Efficient and robust 3D object recognition.",0,2010,europe,False
+79328,cvpr,CVPR,TU Munich,Nassir Navab,3,0,8,2847,Natural gradients for deformable registration.,0,2010,europe,False
+79329,cvpr,CVPR,TU Munich,Nassir Navab,3,0,8,1355,Rapid selection of reliable templates for visual tracking.,0,2010,europe,False
+79330,eccv,ECCV (3),TU Munich,Nassir Navab,2,0,14,580,A Spherical Harmonics Shape Model for Level Set Segmentation.,0,2010,europe,False
+79332,cvpr,CVPR,TU Munich,Nassir Navab,4,0,8,1017,A Sobolev-type metric for polar active contours.,0,2011,europe,False
+79333,iccv,ICCV,TU Munich,Nassir Navab,4,0,8,49,A general preconditioning scheme for difference measures in deformable registration.,0,2011,europe,False
+79334,iccv,ICCV,TU Munich,Nassir Navab,7,0,8,858,Multimodal templates for real-time detection of texture-less objects in heavily cluttered scenes.,0,2011,europe,False
+79335,iccv,ICCV,TU Munich,Nassir Navab,3,0,8,1684,Stereo time-of-flight.,0,2011,europe,False
+79336,cvpr,CVPR,TU Munich,Nassir Navab,2,0,8,1995,A contextual maximum likelihood framework for modeling image registration.,0,2012,europe,False
+79337,eccv,ECCV (1),TU Munich,Nassir Navab,5,0,14,470,Online Learning of Linear Predictors for Real-Time Tracking.,0,2012,europe,False
+79338,eccv,ECCV (4),TU Munich,Nassir Navab,4,0,14,842,Segmentation Based Particle Filtering for Real-Time 2D Object Tracking.,0,2012,europe,False
+79341,cvpr,CVPR,TU Munich,Nassir Navab,4,0,8,3446,Human Shape and Pose Tracking Using Keyframes.,0,2014,europe,False
+79343,cvpr,CVPR,TU Munich,Nassir Navab,3,0,9,3314,Image segmentation in Twenty Questions.,0,2015,europe,False
+79344,cvpr,CVPR,TU Munich,Nassir Navab,5,0,9,2075,Total variation regularization of shape signals.,0,2015,europe,False
+79345,cvpr,CVPR,TU Munich,Nassir Navab,5,0,9,4027,Toward user-specific tracking by detection of human shapes in multi-cameras.,0,2015,europe,False
+79346,iccv,ICCV,TU Munich,Nassir Navab,4,0,9,693,"A Versatile Learning-Based 3D Temporal Tracker: Scalable, Robust, Online.",0,2015,europe,False
+79352,cvpr,CVPR,TU Munich,Nassir Navab,6,0,9,3862,Volumetric 3D Tracking by Detection.,0,2016,europe,False
+79353,eccv,ECCV (1),TU Munich,Nassir Navab,4,0,17,680,SDF-2-SDF: Highly Accurate 3D Object Reconstruction.,0,2016,europe,False
+79354,eccv,ECCV (3),TU Munich,Nassir Navab,5,0,16,205,Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation.,0,2016,europe,False
+79362,cvpr,CVPR,TU Munich,Nassir Navab,4,0,10,6565,CNN-SLAM: Real-Time Dense Monocular SLAM with Learned Depth Prediction.,0,2017,europe,False
+79363,cvpr,CVPR,TU Munich,Nassir Navab,4,0,9,465,Real-Time 3D Model Tracking in Color and Depth on a Single CPU Core.,0,2017,europe,False
+79364,iccv,ICCV,TU Munich,Nassir Navab,5,0,9,5525,Long Short-Term Memory Kalman Filters: Recurrent Neural Estimators for Pose Regularization.,0,2017,europe,False
+79365,iccv,ICCV,TU Munich,Nassir Navab,5,0,9,1530,SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again.,0,2017,europe,False
+79366,cvpr,CVPR,TU Munich,Nassir Navab,5,0,11,3530,A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds.,0,2018,europe,False
+79368,eccv,ECCV (14),TU Munich,Nassir Navab,4,0,17,833,Deep Model-Based 6D Pose Refinement in RGB.,0,2018,europe,False
+79369,eccv,ECCV (14),TU Munich,Nassir Navab,5,0,18,693,Human Motion Analysis with Deep Metric Learning.,0,2018,europe,False
+79370,eccv,ECCV (16),TU Munich,Nassir Navab,3,0,19,732,Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images.,0,2018,europe,False
+79371,eccv,ECCV (4),TU Munich,Nassir Navab,5,0,16,625,Fully-Convolutional Point Networks for Large-Scale Point Clouds.,0,2018,europe,False
+85377,ijcai,IJCAI,TU Munich,Peter Struss,2,0,6,1318,"""Physical Negation"" Integrating Fault Models into the General Diagnostic Engine.",0,1989,europe,False
+85378,aaai,AAAI,TU Munich,Peter Struss,1,0,6,251,Testing Physical Systems.,0,1994,europe,False
+85379,ijcai,IJCAI,TU Munich,Peter Struss,2,0,6,382,Automated Qualitative Domain Abstraction.,0,2003,europe,False
+85380,ijcai,IJCAI,TU Munich,Peter Struss,2,0,6,342,Fault-Model-Based Test Generation for Embedded Software.,0,2007,europe,False
+85381,ijcai,IJCAI,TU Munich,Peter Struss,1,0,6,593,Model-Based Optimization of Testing through Reduction of Stimuli.,0,2007,europe,False
+6337,cvpr,CVPR,University of Stuttgart,Andreas Bulling,4,0,10,4511,Appearance-based gaze estimation in the wild.,0,2015,europe,False
+6338,cvpr,CVPR,University of Stuttgart,Andreas Bulling,4,0,10,981,Prediction of search targets from fixations in open-world settings.,0,2015,europe,False
+6339,iccv,ICCV,University of Stuttgart,Andreas Bulling,6,0,9,3756,Rendering of Eyes for Eye-Shape Registration and Gaze Estimation.,0,2015,europe,False
+6347,eccv,ECCV (1),University of Stuttgart,Andreas Bulling,5,0,17,297,A 3D Morphable Eye Region Model for Gaze Estimation.,0,2016,europe,False
+6350,cvpr,CVPR,University of Stuttgart,Andreas Bulling,4,0,10,6412,Gaze Embeddings for Zero-Shot Image Classification.,0,2017,europe,False
+54814,acl,ACL,University of Stuttgart,Jonas Kuhn,4,0,-1,-1,Lexicalized Stochastic Modeling of Constraint-Based Grammars using Log-Linear Measures and EM Training.,0,2000,europe,False
+54815,acl,ACL,University of Stuttgart,Jonas Kuhn,1,0,-1,-1,Processing Optimality-theoretic Syntax by Interleaved Chart Parsing and Generation.,0,2000,europe,False
+54816,acl,ACL,University of Stuttgart,Jonas Kuhn,1,0,8,48,OT Syntax - Decidability of Generation-based Optimization.,0,2002,europe,False
+54817,acl,ACL,University of Stuttgart,Jonas Kuhn,1,0,8,192,Compounding and Derivational Morphology in a Finite-State Setting.,0,2003,europe,False
+54818,acl,ACL,University of Stuttgart,Jonas Kuhn,1,0,8,470,Experiments in parallel-text based grammar induction.,0,2004,europe,False
+54819,acl,ACL,University of Stuttgart,Jonas Kuhn,2,0,-1,-1,Exploring the Potential of Intractable Parsers.,0,2006,europe,False
+54820,acl,ACL,University of Stuttgart,Jonas Kuhn,4,0,11,1087,Hard Constraints for Grammatical Function Labelling.,0,2010,europe,False
+54821,acl,ACL,University of Stuttgart,Jonas Kuhn,3,0,11,1007,Underspecifying and Predicting Voice for Surface Realisation Ranking.,0,2011,europe,False
+54822,emnlp,EMNLP-CoNLL,University of Stuttgart,Jonas Kuhn,5,0,12,928,Generating Non-Projective Word Order in Statistical Linearization.,0,2012,europe,False
+54823,acl,ACL (1),University of Stuttgart,Jonas Kuhn,2,0,11,1547,Combining Referring Expression Generation and Surface Realization: A Corpus-Based Investigation of Architectures.,0,2013,europe,False
+54824,emnlp,EMNLP,University of Stuttgart,Jonas Kuhn,2,0,6,1892,Detection of Product Comparisons - How Far Does an Out-of-the-Box Semantic Role Labeling System Take You?,0,2013,europe,False
+54825,emnlp,EMNLP,University of Stuttgart,Jonas Kuhn,2,0,12,333,The Effects of Syntactic Features in Automatic Prediction of Morphology.,0,2013,europe,False
+54826,acl,ACL (1),University of Stuttgart,Jonas Kuhn,2,0,11,47,Learning Structured Perceptrons for Coreference Resolution with Latent Antecedents and Non-local Features.,0,2014,europe,False
+54827,acl,ACL (1),University of Stuttgart,Jonas Kuhn,4,0,-1,-1,How to Train Dependency Parsers with Inexact Search for Joint Sentence Boundary Detection and Parsing of Entire Documents.,0,2016,europe,False
+54828,acl,ACL (1),University of Stuttgart,Jonas Kuhn,2,0,11,1612,Learning Semantic Correspondences in Technical Documentation.,0,2017,europe,False
+54829,emnlp,EMNLP,University of Stuttgart,Jonas Kuhn,2,0,11,2716,Multi-modular domain-tailored OCR post-correction.,0,2017,europe,False
+54830,naacl,NAACL-HLT,University of Stuttgart,Jonas Kuhn,3,0,11,720,Polyglot Semantic Parsing in APIs.,0,2018,europe,False
+67972,nips,NIPS,University of Stuttgart,Marc Toussaint,1,0,11,926,"Learning a World Model and Planning with a Self-Organizing, Dynamic Neural System.",0,2003,europe,False
+67973,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,904,Learning discontinuities with products-of-sigmoids for switching between local models.,0,2005,europe,False
+67979,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,585,Approximate inference for planning in stochastic relational worlds.,0,2009,europe,False
+67980,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,1081,Model-free reinforcement learning as mixture learning.,0,2009,europe,False
+67981,icml,ICML,University of Stuttgart,Marc Toussaint,3,0,8,817,Multi-class image segmentation using conditional random fields and global classification.,0,2009,europe,False
+67982,icml,ICML,University of Stuttgart,Marc Toussaint,1,0,8,1049,Robot trajectory optimization using approximate inference.,0,2009,europe,False
+67983,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,449,Trajectory prediction: learning to map situations to robot trajectories.,0,2009,europe,False
+67984,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,583,Probabilistic Backward and Forward Reasoning in Stochastic Relational Worlds.,0,2010,europe,False
+67987,nips,NIPS,University of Stuttgart,Marc Toussaint,3,0,9,2011,An Approximate Inference Approach to Temporal Optimization in Optimal Control.,0,2010,europe,False
+67988,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,8,449,Task Space Retrieval Using Inverse Feedback Control.,0,2011,europe,False
+67991,nips,NIPS,University of Stuttgart,Marc Toussaint,4,0,9,206,Exploration in Model-based Reinforcement Learning by Empirically Estimating Learning Progress.,0,2012,europe,False
+67996,ijcai,IJCAI,University of Stuttgart,Marc Toussaint,4,0,7,1451,Active Learning for Teaching a Robot Grounded Relational Symbols.,0,2013,europe,False
+67997,ijcai,IJCAI,University of Stuttgart,Marc Toussaint,3,0,7,1628,Path Integral Control by Reproducing Kernel Hilbert Space Embedding.,0,2013,europe,False
+67999,icml,ICML,University of Stuttgart,Marc Toussaint,2,0,9,559,Model-Based Relational RL When Object Existence is Partially Observable.,0,2014,europe,False
+68003,aaai,AAAI,University of Stuttgart,Marc Toussaint,2,0,7,3613,Hierarchical Monte-Carlo Planning.,0,2015,europe,False
+68007,ijcai,IJCAI,University of Stuttgart,Marc Toussaint,1,0,7,1930,Logic-Geometric Programming: An Optimization-Based Approach to Combined Task and Motion Planning.,0,2015,europe,False
+68014,ijcai,IJCAI,University of Stuttgart,Marc Toussaint,3,0,8,2089,Policy Search in Reproducing Kernel Hilbert Space.,0,2016,europe,False
+68020,aaai,AAAI,University of Stuttgart,Marc Toussaint,3,0,8,4171,Bayesian Functional Optimization.,0,2018,europe,False
+68021,icml,ICML,University of Stuttgart,Marc Toussaint,7,0,10,1279,Probabilistic Recurrent State-Space Models.,0,2018,europe,False
+79838,acl,ACL (2),University of Stuttgart,Ngoc Thang Vu,3,0,6,206,Combination of Recurrent Neural Networks and Factored Language Models for Code-Switching Language Modeling.,0,2013,europe,False
+79839,acl,ACL (2),University of Stuttgart,Ngoc Thang Vu,3,0,-1,-1,Integrating Distributional Lexical Contrast into Word Embeddings for Antonym-Synonym Distinction.,0,2016,europe,False
+79840,naacl,HLT-NAACL,University of Stuttgart,Ngoc Thang Vu,4,0,6,534,Combining Recurrent and Convolutional Neural Networks for Relation Classification.,0,2016,europe,False
+79841,acl,ACL (2),University of Stuttgart,Ngoc Thang Vu,2,0,7,672,Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages.,0,2017,europe,False
+79842,emnlp,EMNLP,University of Stuttgart,Ngoc Thang Vu,4,0,11,233,Hierarchical Embeddings for Hypernymy Detection and Directionality.,0,2017,europe,False
+104351,aaai,AAAI,University of Stuttgart,Stefan Funke,3,0,-1,-1,Optimal Route Planning for Electric Vehicles in Large Networks.,0,2011,europe,False
+104352,aaai,AAAI,University of Stuttgart,Stefan Funke,2,0,-1,-1,Cruising with a Battery-Powered Vehicle and Not Getting Stranded.,0,2012,europe,False
+104353,aaai,AAAI,University of Stuttgart,Stefan Funke,2,0,-1,-1,Enabling E-Mobility: Facility Location for Battery Loading Stations.,0,2013,europe,False
+104354,aaai,AAAI,University of Stuttgart,Stefan Funke,3,0,7,417,Placement of Loading Stations for Electric Vehicles: No Detours Necessary!,0,2014,europe,False
+104356,aaai,AAAI,University of Stuttgart,Stefan Funke,3,0,7,808,The Simultaneous Maze Solving Problem.,0,2017,europe,False
+104357,aaai,AAAI,University of Stuttgart,Stefan Funke,3,0,8,6119,Sublinear Search Spaces for Shortest Path Planning in Grid and Road Networks.,0,2018,europe,False
+6518,aaai,AAAI,University of Freiburg,Andreas Podelski,4,0,7,2228,Planning as Model Checking in Hybrid Domains.,0,2014,europe,False
+12279,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,7,0,7,588,Beyond Domain-Independence: Experience With the Development of a German Language Access System to Highly Diverse Background Systems.,0,1983,europe,False
+12280,aaai,AAAI,University of Freiburg,Bernhard Nebel,2,0,7,612,A Logical-Form and Knowledge-Base Design for Natural Language Generation.,0,1986,europe,False
+12281,aaai,AAAI,University of Freiburg,Bernhard Nebel,4,0,7,767,An Empirical Analysis of Terminological Representation Systems.,0,1992,europe,False
+12282,aaai,AAAI,University of Freiburg,Bernhard Nebel,2,0,6,748,On the Computational Complexity of Temporal Projection and Plan Validation.,0,1992,europe,False
+12283,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,2,0,6,1430,Complexity Results for SAS+ Planning.,0,1993,europe,False
+12284,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,2,0,9,1436,Plan Modification versus Plan Generation: A Complexity-Theoretic Perspective.,0,1993,europe,False
+12285,aaai,AAAI,University of Freiburg,Bernhard Nebel,2,0,6,356,Reasoning about Temporal Relations: A Maximal Tractable Subclass of Allen's Interval Algebra.,0,1994,europe,False
+12286,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,3,0,8,36,Preferred Arguments are Harder to Compute than Stable Extension.,0,1999,europe,False
+12291,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,3,0,8,961,In Defense of PDDL Axioms.,0,2003,europe,False
+12293,aaai,AAAI,University of Freiburg,Bernhard Nebel,2,0,6,1051,Expressiveness of ADL and Golog: Functions Make a Difference.,0,2007,europe,False
+12295,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,4,0,6,1846,Towards an Integration of Golog and Planning.,0,2007,europe,False
+12296,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,2,0,6,879,A Fixed-Parameter Tractable Algorithm for Spatio-Temporal Calendar Management.,0,2009,europe,False
+12298,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,3,0,7,266,A Mechanism for Dynamic Ride Sharing Based on Parallel Auctions.,0,2011,europe,False
+12299,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,4,0,6,1120,On Qualitative Route Descriptions: Representation and Computational Complexity.,0,2011,europe,False
+12300,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,4,0,7,1169,Transition Constraints: A Study on the Computational Complexity of Qualitative Change.,0,2013,europe,False
+12301,aaai,AAAI,University of Freiburg,Bernhard Nebel,4,0,7,2315,Symbolic Domain Predictive Control.,0,2014,europe,False
+12306,aaai,AAAI,University of Freiburg,Bernhard Nebel,3,0,7,7941,On the Importance of a Research Data Archive.,0,2018,europe,False
+12307,aaai,AAAI,University of Freiburg,Bernhard Nebel,4,0,9,6237,On the Relationship Between State-Dependent Action Costs and Conditional Effects in Planning.,0,2018,europe,False
+12308,ijcai,IJCAI,University of Freiburg,Bernhard Nebel,4,0,8,1795,Game Description Language and Dynamic Epistemic Logic Compared.,0,2018,europe,False
+34321,ijcai,IJCAI,University of Freiburg,Frank Hutter,3,0,6,169,Efficient Stochastic Local Search for MPE Solving.,0,2005,europe,False
+34322,aaai,AAAI,University of Freiburg,Frank Hutter,3,0,6,1152,Automatic Algorithm Configuration Based on Local Search.,0,2007,europe,False
+34323,ijcai,IJCAI,University of Freiburg,Frank Hutter,5,0,7,1778,Bayesian Optimization in High Dimensions via Random Embeddings.,0,2013,europe,False
+34325,icml,ICML,University of Freiburg,Frank Hutter,3,0,9,754,An Efficient Approach for Assessing Hyperparameter Importance.,0,2014,europe,False
+34326,aaai,AAAI,University of Freiburg,Frank Hutter,4,0,7,3364,Automatic Configuration of Sequential Planning Portfolios.,0,2015,europe,False
+34327,aaai,AAAI,University of Freiburg,Frank Hutter,4,0,7,1114,Efficient Benchmarking of Hyperparameter Optimizers via Surrogates.,0,2015,europe,False
+34328,aaai,AAAI,University of Freiburg,Frank Hutter,3,0,8,1128,Initializing Bayesian Hyperparameter Optimization via Meta-Learning.,0,2015,europe,False
+34329,ijcai,IJCAI,University of Freiburg,Frank Hutter,4,0,8,1704,On the Effective Configuration of Planning Domain Models.,0,2015,europe,False
+34330,ijcai,IJCAI,University of Freiburg,Frank Hutter,3,0,9,3460,Speeding Up Automatic Hyperparameter Optimization of Deep Neural Networks by Extrapolation of Learning Curves.,0,2015,europe,False
+34331,nips,NIPS,University of Freiburg,Frank Hutter,6,0,9,2962,Efficient and Robust Automated Machine Learning.,0,2015,europe,False
+34333,nips,NIPS,University of Freiburg,Frank Hutter,4,0,9,4134,Bayesian Optimization with Robust Bayesian Neural Networks.,0,2016,europe,False
+34334,aaai,AAAI,University of Freiburg,Frank Hutter,6,0,7,773,Efficient Parameter Importance Analysis via Ablation with Surrogates.,0,2017,europe,False
+34335,aaai,AAAI,University of Freiburg,Frank Hutter,2,0,8,1355,Warmstarting of Model-Based Algorithm Configuration.,0,2018,europe,False
+34336,eccv,ECCV (7),University of Freiburg,Frank Hutter,7,0,17,677,Uncertainty Estimates and Multi-hypotheses Networks for Optical Flow.,0,2018,europe,False
+34337,icml,ICML,University of Freiburg,Frank Hutter,3,0,10,1436,BOHB: Robust and Efficient Hyperparameter Optimization at Scale.,0,2018,europe,False
+34338,ijcai,IJCAI,University of Freiburg,Frank Hutter,3,0,8,1419,Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari.,0,2018,europe,False
+34339,ijcai,IJCAI,University of Freiburg,Frank Hutter,3,0,7,1442,Neural Networks for Predicting Algorithm Runtime Distributions.,0,2018,europe,False
+34340,kdd,KDD,University of Freiburg,Frank Hutter,2,0,10,2367,Hyperparameter Importance Across Datasets.,0,2018,europe,False
+34341,nips,NeurIPS,University of Freiburg,Frank Hutter,3,0,12,9906,Maximizing acquisition functions for Bayesian optimization.,0,2018,europe,False
+36177,www,WWW,University of Freiburg,Georg Lausen,4,0,11,22,Improving recommendation lists through topic diversification.,0,2005,europe,False
+55281,nips,NIPS,University of Freiburg,Joschka Boedecker,4,0,9,2746,Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images.,0,2015,europe,False
+94072,acl,ACL,University of Freiburg,Rolf Backofen,2,0,8,193,A Complete and Recursive Feature Theory.,0,1993,europe,False
+94073,acl,ACL,University of Freiburg,Rolf Backofen,1,0,8,201,On the Decidability of Functional Uncertainty.,0,1993,europe,False
+109530,cvpr,CVPR (2),University of Freiburg,Thomas Brox,3,0,8,699,Active Unsupervised Texture Segmentation on a Diffusion Based Feature Space.,0,2003,europe,False
+109531,eccv,ECCV (2),University of Freiburg,Thomas Brox,2,0,13,578,A TV Flow Based Local Scale Measure for Texture Discrimination.,0,2004,europe,False
+109532,eccv,ECCV (4),University of Freiburg,Thomas Brox,4,0,12,25,High Accuracy Optical Flow Estimation Based on a Theory for Warping.,0,2004,europe,False
+109533,eccv,ECCV (1),University of Freiburg,Thomas Brox,3,0,13,471,Variational Motion Segmentation with Level Sets.,0,2006,europe,False
+109538,cvpr,CVPR,University of Freiburg,Thomas Brox,3,0,8,41,Large displacement optical flow.,0,2009,europe,False
+109540,eccv,ECCV (5),University of Freiburg,Thomas Brox,2,0,14,282,Object Segmentation by Long Term Analysis of Point Trajectories.,0,2010,europe,False
+109544,iccv,ICCV,University of Freiburg,Thomas Brox,2,0,8,1583,Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions.,0,2011,europe,False
+109545,cvpr,CVPR,University of Freiburg,Thomas Brox,2,0,8,614,Higher order motion models and spectral clustering.,0,2012,europe,False
+109546,cvpr,CVPR,University of Freiburg,Thomas Brox,4,0,8,1759,An Iterated L1 Algorithm for Non-smooth Non-convex Optimization in Computer Vision.,0,2013,europe,False
+109547,cvpr,CVPR,University of Freiburg,Thomas Brox,7,0,8,2179,Blind Deconvolution of Widefield Fluorescence Microscopic Data by Regularization of the Optical Transfer Function (OTF).,0,2013,europe,False
+109549,iccv,ICCV,University of Freiburg,Thomas Brox,2,0,8,969,Point-Based 3D Reconstruction of Thin Objects.,0,2013,europe,False
+109551,eccv,ECCV (5),University of Freiburg,Thomas Brox,2,0,15,406,Training Deformable Object Models for Human Detection Based on Alignment and Clustering.,0,2014,europe,False
+109552,eccv,ECCV (7),University of Freiburg,Thomas Brox,4,0,16,567,Dense Semi-rigid Scene Flow Estimation from RGBD Images.,0,2014,europe,False
+109554,nips,NIPS,University of Freiburg,Thomas Brox,4,0,9,766,Discriminative Unsupervised Feature Learning with Convolutional Neural Networks.,0,2014,europe,False
+109555,cvpr,CVPR,University of Freiburg,Thomas Brox,3,0,9,1538,Learning to generate chairs with convolutional neural networks.,0,2015,europe,False
+109556,iccv,ICCV,University of Freiburg,Thomas Brox,6,0,9,1751,Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts.,0,2015,europe,False
+109558,iccv,ICCV,University of Freiburg,Thomas Brox,2,0,9,1341,"Global, Dense Multiscale Reconstruction for a Billion Points.",0,2015,europe,False
+109559,iccv,ICCV,University of Freiburg,Thomas Brox,3,0,9,3271,Motion Trajectory Segmentation via Minimum Cost Multicuts.,0,2015,europe,False
+109560,iccv,ICCV,University of Freiburg,Thomas Brox,2,0,9,1314,Unsupervised Generation of a View Point Annotated Car Dataset from Videos.,0,2015,europe,False
+109561,iccv,ICCV,University of Freiburg,Thomas Brox,3,0,9,3235,Video Segmentation with Just a Few Strokes.,0,2015,europe,False
+109563,cvpr,CVPR,University of Freiburg,Thomas Brox,2,0,9,4829,Inverting Visual Representations with Convolutional Networks.,0,2016,europe,False
+109564,eccv,ECCV (7),University of Freiburg,Thomas Brox,3,0,16,322,Multi-view 3D Models from Single Images with a Convolutional Network.,0,2016,europe,False
+109567,nips,NIPS,University of Freiburg,Thomas Brox,2,0,9,658,Generating Images with Perceptual Similarity Metrics based on Deep Networks.,0,2016,europe,False
+109569,nips,NIPS,University of Freiburg,Thomas Brox,5,0,9,3387,Synthesizing the preferred inputs for neurons in neural networks via deep generator networks.,0,2016,europe,False
+109570,cvpr,CVPR,University of Freiburg,Thomas Brox,7,0,10,5622,DeMoN: Depth and Motion Network for Learning Monocular Stereo.,0,2017,europe,False
+109571,cvpr,CVPR,University of Freiburg,Thomas Brox,6,0,9,1647,FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.,0,2017,europe,False
+109573,iccv,ICCV,University of Freiburg,Thomas Brox,4,0,10,2923,"Chained Multi-stream Networks Exploiting Pose, Motion, and Appearance for Action Classification and Detection.",0,2017,europe,False
+109574,iccv,ICCV,University of Freiburg,Thomas Brox,2,0,9,4913,Learning to Estimate 3D Hand Pose from Single RGB Images.,0,2017,europe,False
+109575,iccv,ICCV,University of Freiburg,Thomas Brox,3,0,9,2107,Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs.,0,2017,europe,False
+109576,iccv,ICCV,University of Freiburg,Thomas Brox,4,0,10,2774,Universal Adversarial Perturbations Against Semantic Image Segmentation.,0,2017,europe,False
+109578,eccv,ECCV (12),University of Freiburg,Thomas Brox,4,0,18,626,"Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene Flow Estimation.",0,2018,europe,False
+109579,eccv,ECCV (16),University of Freiburg,Thomas Brox,3,0,18,851,DeepTAM: Deep Tracking and Mapping.,0,2018,europe,False
+109580,eccv,ECCV (2),University of Freiburg,Thomas Brox,3,0,18,713,ECO: Efficient Convolutional Network for Online Video Understanding.,0,2018,europe,False
+118475,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,3,0,7,1346,Active Mobile Robot Localization.,0,1997,europe,False
+118477,aaai,AAAI/IAAI,University of Freiburg,Wolfram Burgard,4,0,6,983,Position Estimation for Mobile Robots in Dynamic Environments.,0,1998,europe,False
+118483,aaai,AAAI/IAAI,University of Freiburg,Wolfram Burgard,4,0,7,343,Monte Carlo Localization: Efficient Position Estimation for Mobile Robots.,0,1999,europe,False
+118484,icml,ICML,University of Freiburg,Wolfram Burgard,5,0,10,67,Sonar-Based Mapping of Large-Scale Mobile Robot Environments using EM.,0,1999,europe,False
+118490,aaai,AAAI/IAAI,University of Freiburg,Wolfram Burgard,7,0,7,852,Coordination for Multi-Robot Exploration and Mapping.,0,2000,europe,False
+118491,aaai,AAAI/IAAI,University of Freiburg,Wolfram Burgard,3,0,7,859,Monte Carlo Localization with Mixture Proposal Distribution.,0,2000,europe,False
+118494,cvpr,CVPR (1),University of Freiburg,Wolfram Burgard,4,0,7,371,Tracking Multiple Moving Objects with a Mobile Robot.,0,2001,europe,False
+118495,icml,ICML,University of Freiburg,Wolfram Burgard,5,0,8,329,Using EM to Learn 3D Models of Indoor Environments with Mobile Robots.,0,2001,europe,False
+118507,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,3,0,6,915,An Extension of the ICP Algorithm for Modeling Nonrigid Objects with Mobile Robots.,0,2003,europe,False
+118508,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,2,0,8,1127,Exploring Unknown Environments with Mobile Robots using Coverage Maps.,0,2003,europe,False
+118509,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,3,0,6,909,Where is ...? Learning and Utilizing Motion Patterns of Persons with Mobile Robots.,0,2003,europe,False
+118516,aaai,AAAI,University of Freiburg,Wolfram Burgard,2,0,6,1330,Improving Simultaneous Mapping and Localization in 3D Using Global Constraints.,0,2005,europe,False
+118517,aaai,AAAI,University of Freiburg,Wolfram Burgard,2,0,6,1324,Mobile Robot Mapping and Localization in Non-Static Environments.,0,2005,europe,False
+118518,aaai,AAAI,University of Freiburg,Wolfram Burgard,4,0,6,1306,Semantic Place Classification of Indoor Environments with Mobile Robots Using Boosting.,0,2005,europe,False
+118534,aaai,AAAI,University of Freiburg,Wolfram Burgard,5,0,6,1584,An Integrated Robotic System for Spatial Understanding and Situated Interaction in Indoor Environments.,0,2007,europe,False
+118538,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,3,0,6,2185,Efficient Failure Detection on Mobile Robots Using Particle Filters with Gaussian Process Proposals.,0,2007,europe,False
+118539,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,4,0,6,2225,Instace-Based AMN Classification for Improved Object Recognition in 2D and 3D Laser Range Data.,0,2007,europe,False
+118576,ijcai,IJCAI,University of Freiburg,Wolfram Burgard,6,0,6,1851,Learning Kinematic Models for Articulated Objects.,0,2009,europe,False
+118613,aaai,AAAI,University of Freiburg,Wolfram Burgard,3,0,-1,-1,Occupancy Grid Models for Robot Mapping in Changing Environments.,0,2012,europe,False
+118624,aaai,AAAI,University of Freiburg,Wolfram Burgard,4,0,-1,-1,Compact RGBD Surface Models Based on Sparse Coding.,0,2013,europe,False
+118636,aaai,AAAI,University of Freiburg,Wolfram Burgard,4,0,7,2564,Robust Visual Robot Localization Across Seasons Using Network Flows.,0,2014,europe,False
+6547,nips,NIPS,CISPA Helmholtz Center i.G.,Andreas Zeller,4,0,9,468,Localizing Bugs in Program Executions with Graphical Models.,0,2009,europe,False
+17861,www,WWW,CISPA Helmholtz Center i.G.,Christian Rossow,4,0,10,647,Who Controls the Internet?: Analyzing Global Threats using Property Graph Traversals.,0,2017,europe,False
+52293,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,3,0,10,765,Characterising the difference.,0,2007,europe,False
+52294,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,2,0,9,51,Model order selection for boolean matrix factorization.,0,2011,europe,False
+52295,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,3,0,9,573,Tell me what i need to know: succinctly summarizing data with itemsets.,0,2011,europe,False
+52296,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,2,0,9,462,The long and the short of it: summarising event sequences with serial episodes.,0,2012,europe,False
+52297,icml,ICML,CISPA Helmholtz Center i.G.,Jilles Vreeken,5,0,9,775,Multivariate Maximal Correlation Analysis.,0,2014,europe,False
+52298,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,3,0,10,735,Keeping it Short and Simple: Summarising Complex Event Sequences with Multivariate Patterns.,0,2016,europe,False
+52300,kdd,KDD,CISPA Helmholtz Center i.G.,Jilles Vreeken,3,0,9,355,Discovering Reliable Approximate Functional Dependencies.,0,2017,europe,False
+68804,eccv,ECCV (4),CISPA Helmholtz Center i.G.,Mario Fritz,4,0,14,253,On the Significance of Real-World Conditions for Material Classification.,0,2004,europe,False
+68811,nips,NIPS,CISPA Helmholtz Center i.G.,Mario Fritz,5,0,9,558,An Additive Latent Feature Model for Transparent Object Recognition.,0,2009,europe,False
+68814,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,4,0,8,401,A probabilistic model for recursive factorized image features.,0,2011,europe,False
+68821,eccv,ECCV (4),CISPA Helmholtz Center i.G.,Mario Fritz,2,0,14,345,Recognizing Materials from Virtual Examples.,0,2012,europe,False
+68822,nips,NIPS,CISPA Helmholtz Center i.G.,Mario Fritz,4,0,9,899,Timely Object Recognition.,0,2012,europe,False
+68823,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,2,0,8,321,Multi-class Video Co-segmentation with a Generative Multi-video Model.,0,2013,europe,False
+68824,iccv,ICCV,CISPA Helmholtz Center i.G.,Mario Fritz,2,0,8,1321,Sequential Bayesian Model Update under Structured Scene Prior for Semantic Road Scenes Labeling.,0,2013,europe,False
+68825,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,3,0,8,572,Anytime Recognition of Objects and Scenes.,0,2014,europe,False
+68826,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,4,0,8,3898,Image-Based Synthesis and Re-synthesis of Viewpoints Guided by 3D Models.,0,2014,europe,False
+68827,nips,NIPS,CISPA Helmholtz Center i.G.,Mario Fritz,2,0,9,1682,A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.,0,2014,europe,False
+68830,iccv,ICCV,CISPA Helmholtz Center i.G.,Mario Fritz,3,0,9,1,Ask Your Neurons: A Neural-Based Approach to Answering Questions about Images.,0,2015,europe,False
+68832,iccv,ICCV,CISPA Helmholtz Center i.G.,Mario Fritz,2,0,9,468,See the Difference: Direct Pre-Image Reconstruction and Pose Estimation by Differentiating HOG.,0,2015,europe,False
+68833,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,5,0,9,4508,Deep Reflectance Maps.,0,2016,europe,False
+68839,cvpr,CVPR,CISPA Helmholtz Center i.G.,Mario Fritz,4,0,10,7158,STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling.,0,2017,europe,False
+72918,www,WWW,CISPA Helmholtz Center i.G.,Michael Backes 0001,3,0,10,799,SAFE extensibility of data-driven web applications.,0,2012,europe,False
+72951,aaai,AAAI,CISPA Helmholtz Center i.G.,Michael Backes 0001,5,0,8,6286,Stackelberg Planning: Towards Effective Leader-Follower State Space Search.,0,2018,europe,False
+72956,www,WWW,CISPA Helmholtz Center i.G.,Michael Backes 0001,6,0,10,287,Tagvisor: A Privacy Advisor for Sharing Hashtags.,0,2018,europe,False
+11144,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,2,0,8,41,Globally consistent depth labeling of 4D light fields.,0,2012,europe,False
+11145,eccv,ECCV (5),University of Konstanz,Bastian Goldlücke,2,0,14,608,Spatial and Angular Variational Super-Resolution of 4D Light Fields.,0,2012,europe,False
+11146,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,3,0,8,1011,Globally Consistent Multi-label Assignment on the Ray Space of 4D Light Fields.,0,2013,europe,False
+11147,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,2,0,8,1003,The Variational Structure of Disparity and Regularization of 4D Light Fields.,0,2013,europe,False
+11148,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,3,0,8,3906,Bayesian View Synthesis and Image-Based Rendering Principles.,0,2014,europe,False
+11149,iccv,ICCV,University of Konstanz,Bastian Goldlücke,3,0,9,720,On Linear Structure from Motion for Light Field Cameras.,0,2015,europe,False
+11150,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,3,0,9,3262,What Sparse Light Field Coding Reveals about Scene Structure.,0,2016,europe,False
+11151,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,3,0,9,2529,Accurate Depth and Normal Maps from Occlusion-Aware Focal Stack Symmetry.,0,2017,europe,False
+11152,cvpr,CVPR,University of Konstanz,Bastian Goldlücke,4,0,10,9145,Light Field Intrinsics With a Deep Encoder-Decoder Network.,0,2018,europe,False
+11153,eccv,ECCV (8),University of Konstanz,Bastian Goldlücke,4,0,18,575,Structure-from-Motion-Aware PatchMatch for Adaptive Optical Flow Estimation.,0,2018,europe,False
+21525,kdd,KDD,University of Konstanz,Daniel A. Keim,2,0,8,58,An Efficient Approach to Clustering in Large Multimedia Databases with Noise.,0,1998,europe,False
+74804,nips,NIPS,University of Konstanz,Michael R. Berthold,2,0,8,521,Boosting the Performance of RBF Networks with Dynamic Decay Adjustment.,0,1994,europe,False
+74805,kdd,KDD,University of Konstanz,Michael R. Berthold,9,0,8,11,Open standards and cloud computing: KDD-2009 panel report.,0,2009,europe,False
+74806,kdd,KDD,University of Konstanz,Michael R. Berthold,2,0,10,413,The new iris data: modular data generators.,0,2010,europe,False
+11155,cvpr,CVPR (2),RWTH Aachen,Bastian Leibe,4,0,6,394,3D Object Recognition from Range Images using Local Feature Histograms.,0,2001,europe,False
+11156,cvpr,CVPR (2),RWTH Aachen,Bastian Leibe,2,0,7,409,Analyzing Appearance and Contour Based Methods for Object Categorization.,0,2003,europe,False
+11157,cvpr,CVPR (1),RWTH Aachen,Bastian Leibe,3,0,8,878,Pedestrian Detection in Crowded Scenes.,0,2005,europe,False
+11158,iccv,ICCV,RWTH Aachen,Bastian Leibe,4,0,8,1363,Integrating Representative and Discriminative Models for Object Category Detection.,0,2005,europe,False
+11159,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,1792,Local Features for Object Class Recognition.,0,2005,europe,False
+11160,cvpr,CVPR (1),RWTH Aachen,Bastian Leibe,3,0,11,26,Multiple Object Class Detection with a Generative Model.,0,2006,europe,False
+11161,cvpr,CVPR (2),RWTH Aachen,Bastian Leibe,3,0,7,1582,Multi-Aspect Detection of Articulated Objects.,0,2006,europe,False
+11162,cvpr,CVPR (2),RWTH Aachen,Bastian Leibe,6,0,8,1589,Towards Multi-View Object Class Detection.,0,2006,europe,False
+11163,cvpr,CVPR,RWTH Aachen,Bastian Leibe,4,0,-1,-1,Dynamic 3D Scene Analysis from a Moving Vehicle.,0,2007,europe,False
+11164,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,-1,-1,Fast 3D Scanning with Automatic Motion Compensation.,0,2007,europe,False
+11165,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,1,Coupled Detection and Trajectory Estimation for Multi-Object Tracking.,0,2007,europe,False
+11166,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,1,Depth and Appearance for Mobile Scene Analysis.,0,2007,europe,False
+11167,iccv,ICCV,RWTH Aachen,Bastian Leibe,5,0,8,1,Depth-From-Recognition: Inferring Meta-data by Cognitive Feedback.,0,2007,europe,False
+11168,iccv,ICCV,RWTH Aachen,Bastian Leibe,4,0,8,1,Efficient Mining of Frequent and Distinctive Feature Configurations.,0,2007,europe,False
+11169,cvpr,CVPR,RWTH Aachen,Bastian Leibe,4,0,-1,-1,A mobile vision system for robust multi-person tracking.,0,2008,europe,False
+11170,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,-1,-1,Accurate and robust registration for in-hand modeling.,0,2008,europe,False
+11171,cvpr,CVPR,RWTH Aachen,Bastian Leibe,4,0,-1,-1,Measuring camera translation by the dominant apical angle.,0,2008,europe,False
+11172,eccv,ECCV (2),RWTH Aachen,Bastian Leibe,6,0,15,816,Articulated Multi-body Tracking under Egomotion.,0,2008,europe,False
+11174,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,940,Feature-centric Efficient Subwindow Search.,0,2009,europe,False
+11175,iccv,ICCV,RWTH Aachen,Bastian Leibe,5,0,8,1515,Robust tracking-by-detection using a detector confidence particle filter.,0,2009,europe,False
+11176,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,2090,SCRAMSAC: Improving RANSAC's efficiency with a spatial consistency filter.,0,2009,europe,False
+11178,eccv,ECCV (1),RWTH Aachen,Bastian Leibe,4,0,14,397,Multi-person Tracking with Sparse Detection and Continuous Segmentation.,0,2010,europe,False
+11179,iccv,ICCV,RWTH Aachen,Bastian Leibe,2,0,8,1132,Discovering favorite views of popular places with iconoid shift.,0,2011,europe,False
+11180,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,667,Fast image-based localization using direct 2D-to-3D matching.,0,2011,europe,False
+11181,iccv,ICCV,RWTH Aachen,Bastian Leibe,3,0,8,1871,Level-set person segmentation and tracking with multi-region appearance models and top-down shape information.,0,2011,europe,False
+11183,cvpr,CVPR,RWTH Aachen,Bastian Leibe,2,0,8,2823,Joint 2D-3D temporally consistent semantic segmentation of street scenes.,0,2012,europe,False
+11184,eccv,ECCV (1),RWTH Aachen,Bastian Leibe,3,0,14,752,Improving Image-Based Localization by Active Correspondence Search.,0,2012,europe,False
+11185,eccv,ECCV (5),RWTH Aachen,Bastian Leibe,2,0,14,566,"Taking Mobile Multi-object Tracking to the Next Level: People, Unknown Objects, and Carried Items.",0,2012,europe,False
+11186,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,8,3658,Tracking People and Their Objects.,0,2013,europe,False
+11187,iccv,ICCV,RWTH Aachen,Bastian Leibe,2,0,8,3479,Discovering Details and Scene Structure with Hierarchical Iconoid Shift.,0,2013,europe,False
+11188,iccv,ICCV,RWTH Aachen,Bastian Leibe,5,0,8,2592,Random Forests of Local Experts for Pedestrian Detection.,0,2013,europe,False
+11190,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,8,1534,Probabilistic Labeling Cost for High-Accuracy Multi-view Reconstruction.,0,2014,europe,False
+11196,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,9,2082,Incremental Object Discovery in Time-Varying Image Collections.,0,2016,europe,False
+11200,cvpr,CVPR,RWTH Aachen,Bastian Leibe,4,0,10,3309,Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes.,0,2017,europe,False
+11201,cvpr,CVPR,RWTH Aachen,Bastian Leibe,3,0,9,2215,Semi-Supervised Deep Learning for Monocular Depth Map Prediction.,0,2017,europe,False
+36909,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,1,0,8,401,Tractable Meta-Reasoning in Propositional Logics of Belief.,0,1987,europe,False
+36910,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,1,0,7,531,Decidable Reasoning in First-Order Knowledge Bases with Perfect Introspection.,0,1990,europe,False
+36911,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,1,0,6,492,A Model of Decidable Introspective Reasoning with Quantifying-In.,0,1991,europe,False
+36912,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,1,0,6,662,All They Know About.,0,1993,europe,False
+36913,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,1,0,6,376,All They Know: A Study in Multi-Agent Autoepistemic Reasoning.,0,1993,europe,False
+36914,aaai,AAAI/IAAI,RWTH Aachen,Gerhard Lakemeyer,8,0,8,11,The Interactive Museum Tour-Guide Robot.,0,1998,europe,False
+36915,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,8,124,Query Evaluation and Progression in AOL Knowledge Bases.,0,1999,europe,False
+36916,aaai,AAAI/IAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,476,cc-Golog: Towards More Realistic Logic-Based Robot Controllers.,0,2000,europe,False
+36917,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,12,On-Line Execution of cc-Golog Plans.,0,2001,europe,False
+36918,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,6,633,Only-Knowing: Taking It Beyond Autoepistemic Reasoning.,0,2005,europe,False
+36919,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,490,Semantics for a useful fragment of the situation calculus.,0,2005,europe,False
+36920,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,6,263,Towards an Axiom System for Default Logic.,0,2006,europe,False
+36921,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,3,0,6,956,A Situation-Calculus Semantics for an Expressive Fragment of PDDL.,0,2007,europe,False
+36922,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,6,974,"ESP: A Logic of Only-Knowing, Noisy Sensing and Acting.",0,2007,europe,False
+36924,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,6,842,A Semantical Account of Progression in the Presence of Defaults.,0,2009,europe,False
+36925,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,860,On First-Order Definability and Computability of Progression for Local-Effect Actions and Beyond.,0,2009,europe,False
+36926,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,-1,-1,Reasoning about Imperfect Information Games in the Epistemic Situation Calculus.,0,2010,europe,False
+36927,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,-1,-1,A Semantical Account of Progression in the Presence of Uncertainty.,0,2011,europe,False
+36928,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,6,744,On Progression and Query Evaluation in First-Order Knowledge Bases with Function Symbols.,0,2011,europe,False
+36930,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,969,Decidable Reasoning in a Logic of Limited Belief with Introspection and Unknown Individuals.,0,2013,europe,False
+36931,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,4,0,8,1012,Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs.,0,2014,europe,False
+36932,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,1583,Projection in the Epistemic Situation Calculus with Belief Conditionals.,0,2015,europe,False
+36933,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,3,0,7,3214,Belief Revision and Progression of Knowledge Bases in the Epistemic Situation Calculus.,0,2015,europe,False
+36934,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,7,2755,Only Knowing Meets Common Knowledge.,0,2015,europe,False
+36935,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,3,0,7,893,A First-Order Logic of Probability and Only Knowing in Unbounded Domains.,0,2016,europe,False
+36936,aaai,AAAI,RWTH Aachen,Gerhard Lakemeyer,4,0,8,3346,Continual Planning in Golog.,0,2016,europe,False
+36937,ijcai,IJCAI,RWTH Aachen,Gerhard Lakemeyer,2,0,9,828,Reasoning about Probabilities in Unbounded First-Order Dynamical Domains.,0,2017,europe,False
+42421,acl,ACL,RWTH Aachen,Hermann Ney,4,0,8,289,A DP based Search Using Monotone Alignments in Statistical Translation.,0,1997,europe,False
+42422,acl,COLING-ACL,RWTH Aachen,Hermann Ney,4,0,8,960,A DP based Search Algorithm for Statistical Machine Translation.,0,1998,europe,False
+42423,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,-1,-1,Improved Alignment Models for Statistical Machine Translation.,0,1999,europe,False
+42424,acl,ACL,RWTH Aachen,Hermann Ney,2,0,-1,-1,Improved Statistical Alignment Models.,0,2000,europe,False
+42425,acl,ACL,RWTH Aachen,Hermann Ney,2,0,-1,-1,Translation with Cascaded Finite State Transducers.,0,2000,europe,False
+42426,acl,ACL,RWTH Aachen,Hermann Ney,4,0,8,204,Refined Lexikon Models for Statistical Machine Translation Using a Maximum Entropy Approach.,0,2001,europe,False
+42427,acl,ACL,RWTH Aachen,Hermann Ney,2,0,8,295,Discriminative Training and Maximum Entropy Models for Statistical Machine Translation.,0,2002,europe,False
+42428,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,-1,-1,Generation of Word Graphs in Statistical Machine Translation.,0,2002,europe,False
+42429,acl,ACL,RWTH Aachen,Hermann Ney,2,0,8,144,A Comparative Study on Reordering Constraints in Statistical Machine Translation.,0,2003,europe,False
+42430,acl,ACL,RWTH Aachen,Hermann Ney,2,0,8,510,FSA: An Efficient and Flexible C++ Toolkit for Finite State Automata Using On-Demand Computation.,0,2004,europe,False
+42431,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,7,270,Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging.,0,2004,europe,False
+42432,naacl,HLT-NAACL,RWTH Aachen,Hermann Ney,2,0,8,257,Improvements in Phrase-Based Statistical Machine Translation.,0,2004,europe,False
+42433,cvpr,CVPR (2),RWTH Aachen,Hermann Ney,3,0,6,157,Discriminative Training for Object Recognition Using Image Patches.,0,2005,europe,False
+42434,emnlp,HLT/EMNLP,RWTH Aachen,Hermann Ney,2,0,8,763,Word-Level Confidence Estimation for Machine Translation using Phrase-Based Translation Models.,0,2005,europe,False
+42435,acl,ACL,RWTH Aachen,Hermann Ney,3,0,-1,-1,Integration of Speech to Computer-Assisted Translation Using Finite-State Automata.,0,2006,europe,False
+42436,acl,ACL,RWTH Aachen,Hermann Ney,3,0,-1,-1,Minimum Bayes Risk Decoding for BLEU.,0,2007,europe,False
+42437,emnlp,EMNLP-CoNLL,RWTH Aachen,Hermann Ney,3,0,9,524,A Systematic Comparison of Training Criteria for Statistical Machine Translation.,0,2007,europe,False
+42438,naacl,HLT-NAACL,RWTH Aachen,Hermann Ney,2,0,8,492,Efficient Phrase-Table Representation for Machine Translation with Applications to Online MT and Speech Translation.,0,2007,europe,False
+42439,cvpr,CVPR,RWTH Aachen,Hermann Ney,3,0,-1,-1,"Pan, zoom, scan - Time-coherent, trained automatic video cropping.",0,2008,europe,False
+42440,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,9,839,Complexity of Finding the BLEU-optimal Hypothesis in a Confusion Network.,0,2008,europe,False
+42441,emnlp,EMNLP,RWTH Aachen,Hermann Ney,4,0,10,372,Triplet Lexicon Models for Statistical Machine Translation.,0,2008,europe,False
+42442,icml,ICML,RWTH Aachen,Hermann Ney,4,0,8,384,Modified MMI/MPE: a direct evaluation of the margin in speech recognition.,0,2008,europe,False
+42443,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,9,210,Extending Statistical Machine Translation with Discriminative and Trigger-Based Lexicon Models.,0,2009,europe,False
+42444,acl,ACL,RWTH Aachen,Hermann Ney,3,0,10,475,Training Phrase Translation Models with Leaving-One-Out.,0,2010,europe,False
+42445,nips,NIPS,RWTH Aachen,Hermann Ney,2,0,9,657,A Convergence Analysis of Log-Linear Training.,0,2011,europe,False
+42446,acl,ACL (1),RWTH Aachen,Hermann Ney,3,0,9,156,Deciphering Foreign Language by Combining Language Models and Context Vectors.,0,2012,europe,False
+42447,acl,ACL (1),RWTH Aachen,Hermann Ney,3,0,11,322,Advancements in Reordering Models for Statistical Machine Translation.,0,2013,europe,False
+42448,acl,ACL (1),RWTH Aachen,Hermann Ney,3,0,9,1568,Beam Search for Solving Substitution Ciphers.,0,2013,europe,False
+42449,acl,ACL (1),RWTH Aachen,Hermann Ney,2,0,7,615,Decipherment Complexity in 1: 1 Substitution Ciphers.,0,2013,europe,False
+42450,naacl,HLT-NAACL,RWTH Aachen,Hermann Ney,2,0,6,649,Phrase Training Based Adaptation for Statistical Machine Translation.,0,2013,europe,False
+42451,acl,ACL (2),RWTH Aachen,Hermann Ney,2,0,6,759,EM Decipherment for Large Vocabularies.,0,2014,europe,False
+42452,eccv,ECCV (1),RWTH Aachen,Hermann Ney,3,0,16,281,Read My Lips: Continuous Signer Independent Weakly Supervised Viseme Recognition.,0,2014,europe,False
+42453,emnlp,EMNLP,RWTH Aachen,Hermann Ney,4,0,12,14,Translation Modeling with Bidirectional Recurrent Neural Networks.,0,2014,europe,False
+42454,emnlp,EMNLP,RWTH Aachen,Hermann Ney,5,0,11,1401,A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences.,0,2015,europe,False
+42455,naacl,HLT-NAACL,RWTH Aachen,Hermann Ney,5,0,11,1516,A Comparison of Update Strategies for Large-Scale Maximum Expected BLEU Training.,0,2015,europe,False
+42456,acl,ACL (2),RWTH Aachen,Hermann Ney,3,0,-1,-1,Exponentially Decaying Bag-of-Words Input Features for Feed-Forward Neural Network in Statistical Machine Translation.,0,2016,europe,False
+42457,cvpr,CVPR,RWTH Aachen,Hermann Ney,3,0,10,3793,Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data is Continuous and Weakly Labelled.,0,2016,europe,False
+42458,acl,ACL (2),RWTH Aachen,Hermann Ney,4,0,7,125,Hybrid Neural Network Alignment and Lexicon Model in Direct HMM for Statistical Machine Translation.,0,2017,europe,False
+42459,cvpr,CVPR,RWTH Aachen,Hermann Ney,3,0,9,3416,Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs.,0,2017,europe,False
+42460,acl,ACL (2),RWTH Aachen,Hermann Ney,5,0,6,377,Neural Hidden Markov Model for Machine Translation.,0,2018,europe,False
+42461,cvpr,CVPR,RWTH Aachen,Hermann Ney,5,0,10,7784,Neural Sign Language Translation.,0,2018,europe,False
+42462,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,7,862,Improving Unsupervised Word-by-Word Translation with Language Model and Denoising Autoencoder.,0,2018,europe,False
+42463,emnlp,EMNLP,RWTH Aachen,Hermann Ney,3,0,7,3009,Towards Two-Dimensional Sequence to Sequence Model in Neural Machine Translation.,0,2018,europe,False
+63175,cvpr,CVPR (1),RWTH Aachen,Leif Kobbelt,2,0,8,503,Hierarchical Volumetric Multi-view Stereo Reconstruction of Manifold Surfaces based on Dual Graph Embedding.,0,2006,europe,False
+63176,eccv,ECCV (2),RWTH Aachen,Leif Kobbelt,2,0,12,179,Robust and Efficient Photo-Consistency Estimation for Volumetric 3D Reconstruction.,0,2006,europe,False
+63177,cvpr,CVPR,RWTH Aachen,Leif Kobbelt,2,0,-1,-1,A Surface-Growing Approach to Multi-View Stereo Reconstruction.,0,2007,europe,False
+63178,cvpr,CVPR,RWTH Aachen,Leif Kobbelt,3,0,-1,-1,Image selection for improved Multi-View Stereo.,0,2008,europe,False
+63186,cvpr,CVPR,RWTH Aachen,Leif Kobbelt,3,0,8,2155,Efficient Computation of Shortest Path-Concavity for 3D Meshes.,0,2013,europe,False
+63189,eccv,ECCV (2),RWTH Aachen,Leif Kobbelt,4,0,16,268,Scalable 6-DOF Localization on Mobile Devices.,0,2014,europe,False
+63198,eccv,ECCV (9),RWTH Aachen,Leif Kobbelt,5,0,18,626,Learning to Reconstruct High-Quality 3D Shapes with Cascaded Fully Convolutional Networks.,0,2018,europe,False
+104318,aaai,AAAI/IAAI,RWTH Aachen,Stefan Decker,9,0,6,1034,AI for the Web - Ontology-Based Community Web Portals.,0,2000,europe,False
+104320,www,WWW,RWTH Aachen,Stefan Decker,9,0,12,604,EDUTELLA: a P2P networking infrastructure based on RDF.,0,2002,europe,False
+104324,www,WWW,RWTH Aachen,Stefan Decker,2,0,10,1047,A dual-mode user interface for accessing 3D content on the world wide web.,0,2012,europe,False
+11564,nips,NIPS,TU Berlin,Benjamin Blankertz,3,0,8,157,Classifying Single Trial EEG: Towards Brain Computer Interfacing.,0,2001,europe,False
+11565,nips,NIPS,TU Berlin,Benjamin Blankertz,4,0,8,1115,Combining Features for BCI.,0,2002,europe,False
+11566,nips,NIPS,TU Berlin,Benjamin Blankertz,4,0,8,733,Increase Information Transfer Rates in BCI by CSP Extension to Multi-class.,0,2003,europe,False
+11567,nips,NIPS,TU Berlin,Benjamin Blankertz,6,0,8,315,Optimizing spatio-temporal filters for improving Brain-Computer Interfacing.,0,2005,europe,False
+11568,nips,NIPS,TU Berlin,Benjamin Blankertz,4,0,8,753,Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach.,0,2006,europe,False
+11569,nips,NIPS,TU Berlin,Benjamin Blankertz,6,0,8,113,Invariant Common Spatial Patterns: Alleviating Nonstationarities in Brain-Computer Interfacing.,0,2007,europe,False
+11570,nips,NIPS,TU Berlin,Benjamin Blankertz,7,0,8,1641,Playing Pinball with non-invasive BCI.,0,2008,europe,False
+11571,nips,NIPS,TU Berlin,Benjamin Blankertz,6,0,9,513,Subject independent EEG-based BCI decoding.,0,2009,europe,False
+42068,nips,NIPS,TU Berlin,Henning Sprekeler,3,0,9,1741,Code-specific policy gradient rules for spiking neurons.,0,2009,europe,False
+60359,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,8,83,A Comparison between a Neural Network Model for the Formation of Brain Maps and Experimental Data.,0,1991,europe,False
+60360,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,8,543,Development of Orientation and Ocular Dominance Columns in Infant Macaques.,0,1993,europe,False
+60361,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,8,93,A Critical Comparison of Models for Orientation and Ocular Dominance Columns in the Striate Cortex.,0,1994,europe,False
+60362,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,7,430,An Annealed Self-Organizing Map for Source Channel Coding.,0,1997,europe,False
+60363,nips,NIPS,TU Berlin,Klaus Obermayer,4,0,7,438,Classification on Pairwise Proximity Data.,0,1998,europe,False
+60364,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,7,76,Contrast Adaptation in Simple Cells by Changing the Transmitter Release Probability.,0,1998,europe,False
+60365,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,7,139,The Role of Lateral Cortical Competition in Ocular Dominance Development.,0,1998,europe,False
+60366,nips,NIPS,TU Berlin,Klaus Obermayer,7,0,7,949,Application of Blind Separation of Sources to Optical Recording of Brain Activity.,0,1999,europe,False
+60367,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,7,456,Bayesian Transduction.,0,1999,europe,False
+60368,nips,NIPS,TU Berlin,Klaus Obermayer,4,0,7,89,Recurrent Cortical Competition: Strengthen or Weaken?,0,1999,europe,False
+60369,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,8,301,Activity Driven Adaptive Stochastic Resonance.,0,2001,europe,False
+60370,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,8,993,Multi Dimensional ICA to Separate Correlated Sources.,0,2001,europe,False
+60371,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,8,545,Coulomb Classifiers: Generalizing Support Vector Machines via an Analogy to Electrostatic Systems.,0,2002,europe,False
+60372,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,8,889,Feature Selection and Classification on Matrix Data: From Large Margins to Small Covering Numbers.,0,2002,europe,False
+60373,nips,NIPS,TU Berlin,Klaus Obermayer,4,0,8,717,Nonlinear Filtering of Electron Micrographs by Means of Support Vector Regression.,0,2003,europe,False
+60374,nips,NIPS,TU Berlin,Klaus Obermayer,2,0,8,929,A Topographic Support Vector Machine: Classification Using Local Label Configurations.,0,2004,europe,False
+60375,nips,NIPS,TU Berlin,Klaus Obermayer,9,0,8,1769,Dependence of Orientation Tuning on Recurrent Excitation and Inhibition in a Network Model of V1.,0,2008,europe,False
+60376,nips,NIPS,TU Berlin,Klaus Obermayer,4,0,8,1233,Modeling Short-term Noise Dependence of Spike Counts in Macaque Prefrontal Cortex.,0,2008,europe,False
+60377,nips,NIPS,TU Berlin,Klaus Obermayer,3,0,9,1383,Correlation Coefficients are Insufficient for Analyzing Spike Count Dependencies.,0,2009,europe,False
+67349,www,WWW,TU Berlin,Manfred Hauswirth,5,0,10,581,Rapid prototyping of semantic mash-ups through semantic web pipes.,0,2009,europe,False
+67401,nips,NIPS,TU Berlin,Manfred Opper,4,0,8,855,"Estimating Average-Case Learning Curves Using Bayesian, Statistical Physics and VC Dimension Methods.",0,1991,europe,False
+67402,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,225,A Mean Field Algorithm for Bayes Learning in Large Feed-forward Neural Networks.,0,1996,europe,False
+67403,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,141,Dynamics of Training.,0,1996,europe,False
+67404,nips,NIPS,TU Berlin,Manfred Opper,3,0,7,218,Finite-Dimensional Approximation of Gaussian Processes.,0,1998,europe,False
+67405,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,302,General Bounds on Bayes Errors for Regression with Gaussian Processes.,0,1998,europe,False
+67406,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,309,Mean Field Methods for Classification with Gaussian Processes.,0,1998,europe,False
+67407,nips,NIPS,TU Berlin,Manfred Opper,5,0,7,251,Efficient Approaches to Gaussian Process Classification.,0,1999,europe,False
+67408,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,273,Learning Curves for Gaussian Processes Regression: A Framework for Good Approximations.,0,2000,europe,False
+67409,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,444,Sparse Representation for Gaussian Process Models.,0,2000,europe,False
+67410,nips,NIPS,TU Berlin,Manfred Opper,2,0,7,463,A Variational Approach to Learning Curves.,0,2001,europe,False
+67411,nips,NIPS,TU Berlin,Manfred Opper,2,0,8,479,Asymptotic Universality for Learning Curves of Support Vector Machines.,0,2001,europe,False
+67412,nips,NIPS,TU Berlin,Manfred Opper,3,0,7,657,"TAP Gibbs Free Energy, Belief Propagation and Sparsity.",0,2001,europe,False
+67413,nips,NIPS,TU Berlin,Manfred Opper,2,0,8,327,A Statistical Mechanics Approach to Approximate Analytical Bootstrap Averages.,0,2002,europe,False
+67414,nips,NIPS,TU Berlin,Manfred Opper,2,0,8,1189,Approximate Analytical Bootstrap Averages for Support Vector Classifiers.,0,2003,europe,False
+67415,nips,NIPS,TU Berlin,Manfred Opper,2,0,8,1157,Variational Linear Response.,0,2003,europe,False
+67416,nips,NIPS,TU Berlin,Manfred Opper,2,0,8,1001,Expectation Consistent Free Energies for Approximate Inference.,0,2004,europe,False
+67417,nips,NIPS,TU Berlin,Manfred Opper,1,0,8,1035,An Approximate Inference Approach for the PCA Reconstruction Error.,0,2005,europe,False
+67420,nips,NIPS,TU Berlin,Manfred Opper,3,0,8,1241,Improving on Expectation Propagation.,0,2008,europe,False
+67422,nips,NIPS,TU Berlin,Manfred Opper,3,0,9,2303,Analytical Results for the Error in Filtering of Gaussian Processes.,0,2011,europe,False
+67424,nips,NIPS,TU Berlin,Manfred Opper,3,0,9,2040,Approximate Gaussian process inference for the drift function in stochastic differential equations.,0,2013,europe,False
+67426,nips,NIPS,TU Berlin,Manfred Opper,3,0,9,2987,Optimal Neural Codes for Control and Estimation.,0,2014,europe,False
+67427,nips,NIPS,TU Berlin,Manfred Opper,3,0,9,730,Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data.,0,2014,europe,False
+67428,nips,NIPS,TU Berlin,Manfred Opper,3,0,9,1603,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding.,0,2015,europe,False
+67429,nips,NIPS,TU Berlin,Manfred Opper,4,0,9,5086,Perturbative Black Box Variational Inference.,0,2017,europe,False
+69616,ijcai,IJCAI,TU Berlin,Markus Brill,3,0,6,85,On the Fixed-Parameter Tractability of Composition-Consistent Tournament Solutions.,0,2011,europe,False
+69617,aaai,AAAI,TU Berlin,Markus Brill,2,0,-1,-1,The Price of Neutrality for the Ranked Pairs Method.,0,2012,europe,False
+69618,aaai,AAAI,TU Berlin,Markus Brill,3,0,7,580,Extending Tournament Solutions.,0,2014,europe,False
+69619,aaai,AAAI,TU Berlin,Markus Brill,3,0,7,675,On the Axiomatic Characterization of Runoff Voting Rules.,0,2014,europe,False
+69621,aaai,AAAI,TU Berlin,Markus Brill,2,0,8,819,Strategic Voting and Strategic Candidacy.,0,2015,europe,False
+69622,aaai,AAAI,TU Berlin,Markus Brill,3,0,7,369,Computing Possible and Necessary Equilibrium Actions (and Bipartisan Set Winners).,0,2016,europe,False
+69623,aaai,AAAI,TU Berlin,Markus Brill,4,0,8,460,Rules for Choosing Societal Tradeoffs.,0,2016,europe,False
+69625,aaai,AAAI,TU Berlin,Markus Brill,3,0,7,414,Multiwinner Approval Rules as Apportionment Methods.,0,2017,europe,False
+69626,aaai,AAAI,TU Berlin,Markus Brill,4,0,8,406,Phragmn's Voting Methods and Justified Representation.,0,2017,europe,False
+69628,ijcai,IJCAI,TU Berlin,Markus Brill,2,0,7,137,Pairwise Liquid Democracy.,0,2018,europe,False
+81831,cvpr,CVPR,TU Berlin,Olaf Hellwich,4,0,-1,-1,A Benchmarking Dataset for Performance Evaluation of Automatic Surface Reconstruction Algorithms.,0,2007,europe,False
+81832,eccv,ECCV (7),TU Berlin,Olaf Hellwich,3,0,16,236,SyB3R: A Realistic Synthetic Benchmark for 3D Reconstruction from Images.,0,2016,europe,False
+94083,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,3,0,6,53,A Multivariate Complexity Analysis of Determining Possible Winners Given Incomplete Votes.,0,2009,europe,False
+94084,aaai,AAAI,TU Berlin,Rolf Niedermeier,5,0,-1,-1,Exact Algorithms and Experiments for Hierarchical Tree Clustering.,0,2010,europe,False
+94085,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,3,0,6,55,Unweighted Coalitional Manipulation under the Borda Rule Is NP-Hard.,0,2011,europe,False
+94086,aaai,AAAI,TU Berlin,Rolf Niedermeier,6,0,-1,-1,A Multivariate Complexity Analysis of Lobbying in Multiple Referenda.,0,2012,europe,False
+94087,aaai,AAAI,TU Berlin,Rolf Niedermeier,5,0,7,1398,Prices Matter for the Parameterized Complexity of Shift Bribery.,0,2014,europe,False
+94088,aaai,AAAI,TU Berlin,Rolf Niedermeier,4,0,7,2045,Elections with Few Voters: Candidate Control Can Be Easy.,0,2015,europe,False
+94089,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,5,0,7,808,"H-Index Manipulation by Merging Articles: Models, Theory, and Experiments.",0,2015,europe,False
+94090,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,4,0,7,164,"Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty.",0,2015,europe,False
+94091,aaai,AAAI,TU Berlin,Rolf Niedermeier,4,0,7,2452,Complexity of Shift Bribery in Committee Elections.,0,2016,europe,False
+94092,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,3,0,7,102,"Complexity of Efficient and Envy-Free Resource Allocation: Few Agents, Resources, or Utility Levels.",0,2016,europe,False
+94093,aaai,AAAI,TU Berlin,Rolf Niedermeier,5,0,7,390,Teams in Online Scheduling Polls: Game-Theoretic Aspects.,0,2017,europe,False
+94094,ijcai,IJCAI,TU Berlin,Rolf Niedermeier,3,0,7,887,On Coalitional Manipulation for Multiwinner Elections: Shortlisting.,0,2017,europe,False
+14290,acl,ACL,Bielefeld University,Britta Wrede,2,0,-1,-1,Spontaneous Speech Understanding for Robust Multi-Modal Human-Robot Communication.,0,2006,europe,False
+14300,naacl,HLT-NAACL,Bielefeld University,Britta Wrede,3,0,10,872,Semantic parsing of speech using grammars learned with weak supervision.,0,2015,europe,False
+25783,acl,ACL,Bielefeld University,David Schlangen,1,0,8,247,Towards Finding and Fixing Fragments-Using ML to Identify Non-Sentential Utterances and their Antecedents in Multi-Party Dialogue.,0,2005,europe,False
+25784,naacl,HLT-NAACL,Bielefeld University,David Schlangen,3,0,9,380,Assessing and Improving the Performance of Speech Recognition for Incremental Systems.,0,2009,europe,False
+25787,acl,ACL (1),Bielefeld University,David Schlangen,2,0,-1,-1,Easy Things First: Installments Improve Referring Expression Generation for Objects in Photographs.,0,2016,europe,False
+25789,acl,ACL (1),Bielefeld University,David Schlangen,2,0,12,243,Obtaining referential word meanings from visual and distributional information: Experiments on object naming.,0,2017,europe,False
+25790,emnlp,EMNLP,Bielefeld University,David Schlangen,2,0,7,959,Deriving continous grounded meaning representations from referentially structured multimodal contexts.,0,2017,europe,False
+36976,aaai,AAAI/IAAI,Bielefeld University,Gerhard Sagerer,5,0,6,159,"Projective Relations for 3D Space: Computational Model, Application, and Psychological Evaluation.",0,1997,europe,False
+36977,iccv,ICCV,Bielefeld University,Gerhard Sagerer,3,0,7,726,Incorporating Process Knowledge into Object Recognition for Assemblies.,0,2001,europe,False
+36978,aaai,AAAI/IAAI,Bielefeld University,Gerhard Sagerer,2,0,7,300,Bayesian Networks for Speech and Image Integration.,0,2002,europe,False
+36980,cvpr,CVPR (2),Bielefeld University,Gerhard Sagerer,4,0,7,827,A Cognitive Vision System for Action Recognition in Office Environments.,0,2004,europe,False
+41703,nips,NIPS,Bielefeld University,Helge J. Ritter,3,0,7,11,Development and Spatial Structure of Cortical Feature Maps: A Model Study.,0,1990,europe,False
+41704,nips,NIPS,Bielefeld University,Helge J. Ritter,2,0,8,188,Generalization Abilities of Cascade Network Architecture.,0,1992,europe,False
+41705,nips,NIPS,Bielefeld University,Helge J. Ritter,2,0,7,570,Investment Learning with Hierarchical PSOMs.,0,1995,europe,False
+41706,nips,NIPS,Bielefeld University,Helge J. Ritter,3,0,7,903,Visual gesture-based robot guidance with a modular neural system.,0,1995,europe,False
+41709,nips,NIPS,Bielefeld University,Helge J. Ritter,2,0,8,1417,Hyperbolic Self-Organizing Maps for Semantic Navigation.,0,2001,europe,False
+41710,nips,NIPS,Bielefeld University,Helge J. Ritter,2,0,8,825,Quantizing Density Estimators.,0,2001,europe,False
+41712,kdd,KDD,Bielefeld University,Helge J. Ritter,2,0,10,123,On interactive visualization of high-dimensional data using the hyperbolic plane.,0,2002,europe,False
+41713,nips,NIPS,Bielefeld University,Helge J. Ritter,3,0,8,985,Discriminative Densities from Maximum Contrast Estimation.,0,2002,europe,False
+41714,nips,NIPS,Bielefeld University,Helge J. Ritter,5,0,8,1107,Improving Transfer Rates in Brain Computer Interfacing: A Case Study.,0,2002,europe,False
+86038,www,WWW,Bielefeld University,Philipp Cimiano,3,0,10,462,Towards the self-annotating web.,0,2004,europe,False
+86039,www,WWW,Bielefeld University,Philipp Cimiano,3,0,10,332,Gimme' the context: context-driven automatic semantic annotation with C-PANKOW.,0,2005,europe,False
+86040,aaai,AAAI,Bielefeld University,Philipp Cimiano,3,0,6,1316,Harvesting Relations from the Web - Quantifiying the Impact of Filtering Functions.,0,2007,europe,False
+86041,acl,ACL,Bielefeld University,Philipp Cimiano,2,0,-1,-1,Automatic Acquisition of Ranked Qualia Structures from the Web.,0,2007,europe,False
+86043,ijcai,IJCAI,Bielefeld University,Philipp Cimiano,5,0,6,1513,Explicit Versus Latent Concept Models for Cross-Language Information Retrieval.,0,2009,europe,False
+86044,www,WWW,Bielefeld University,Philipp Cimiano,6,0,10,639,Template-based question answering over RDF data.,0,2012,europe,False
+86045,acl,ACL (2),Bielefeld University,Philipp Cimiano,2,0,7,848,Bi-directional Inter-dependencies of Subjective Expressions and Targets and their Value for a Joint Model.,0,2013,europe,False
+86046,emnlp,EMNLP,Bielefeld University,Philipp Cimiano,3,0,9,1732,Orthonormal Explicit Topic Analysis for Cross-Lingual Document Matching.,0,2013,europe,False
+104400,aaai,AAAI,Bielefeld University,Stefan Kopp,2,0,9,2069,A Hybrid Grammar-Based Approach for Learning and Recognizing Natural Hand Gestures.,0,2014,europe,False
+14651,ijcai,IJCAI,University of Passau,Burkhard Freitag,3,0,6,1369,An Integrated Knowledge Based Assembly Control System for Automobile Manufacturing.,0,1989,europe,False
+42464,www,WWW,University of Passau,Hermann de Meer,5,0,10,591,idMesh: graph-based disambiguation of linked data.,0,2009,europe,False
+102325,www,WWW,University of Passau,Siegfried Handschuh,2,0,12,462,Authoring and annotation of web pages in CREAM.,0,2002,europe,False
+102326,www,WWW,University of Passau,Siegfried Handschuh,3,0,8,431,On deep annotation.,0,2003,europe,False
+102328,www,WWW,University of Passau,Siegfried Handschuh,4,0,10,845,P-TAG: large scale automatic generation of personalized annotation tags for the web.,0,2007,europe,False
+102329,emnlp,EMNLP,University of Passau,Siegfried Handschuh,2,0,11,1713,Random Manhattan Integer Indexing: Incremental L1 Normed Vector Space Construction.,0,2014,europe,False
+102330,aaai,AAAI,University of Passau,Siegfried Handschuh,3,0,8,4913,Recognizing and Justifying Text Entailment Through Distributional Navigation on Definition Graphs.,0,2018,europe,False
+15661,iccv,ICCV,TU Dresden,Carsten Rother,2,0,10,42,Linear Multi View Reconstruction and Camera Recovery.,0,2001,europe,False
+15662,eccv,ECCV (2),TU Dresden,Carsten Rother,2,0,16,309,Linear Multi View Reconstruction with Missing Data.,0,2002,europe,False
+15663,iccv,ICCV,TU Dresden,Carsten Rother,1,0,8,1210,"Linear Multi-View Reconstruction of Points, Lines, Planes and Cameras using a Reference Plane.",0,2003,europe,False
+15664,eccv,ECCV (1),TU Dresden,Carsten Rother,5,0,14,428,Interactive Image Segmentation Using an Adaptive GMMRF Model.,0,2004,europe,False
+15666,cvpr,CVPR (1),TU Dresden,Carsten Rother,4,0,8,589,Digital Tapestry.,0,2005,europe,False
+15667,cvpr,CVPR (2),TU Dresden,Carsten Rother,5,0,8,407,Bi-Layer Segmentation of Binocular Stereo Video.,0,2005,europe,False
+15669,cvpr,CVPR (1),TU Dresden,Carsten Rother,4,0,8,993,Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs.,0,2006,europe,False
+15670,eccv,ECCV (1),TU Dresden,Carsten Rother,4,0,15,1,": Joint Appearance, Shape and Context Modeling for Multi-class Object Recognition and Segmentation.",0,2006,europe,False
+15671,eccv,ECCV (2),TU Dresden,Carsten Rother,8,0,14,16,A Comparative Study of Energy Minimization Methods for Markov Random Fields.,0,2006,europe,False
+15672,eccv,ECCV (2),TU Dresden,Carsten Rother,2,0,15,1,Comparison of Energy Minimization Algorithms for Highly Connected Graphs.,0,2006,europe,False
+15673,nips,NIPS,TU Dresden,Carsten Rother,3,0,8,657,Clustering appearance and shape by learning jigsaws.,0,2006,europe,False
+15676,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,-1,-1,3D LayoutCRF for Multi-View Object Class Recognition and Segmentation.,0,2007,europe,False
+15677,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,-1,-1,Optimizing Binary MRFs via Extended Roof Duality.,0,2007,europe,False
+15678,iccv,ICCV,TU Dresden,Carsten Rother,3,0,8,1,Applications of parametric maxflow in computer vision.,0,2007,europe,False
+15679,iccv,ICCV,TU Dresden,Carsten Rother,3,0,8,1,LogCut - Efficient Graph Cut Optimization for Markov Random Fields.,0,2007,europe,False
+15681,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,-1,-1,Bayesian color constancy revisited.,0,2008,europe,False
+15682,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,-1,-1,FusionFlow: Discrete-continuous optimization for optical flow estimation.,0,2008,europe,False
+15683,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,-1,-1,Graph cut based image segmentation with connectivity priors.,0,2008,europe,False
+15684,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,-1,-1,High resolution matting via interactive trimap segmentation.,0,2008,europe,False
+15685,eccv,ECCV (2),TU Dresden,Carsten Rother,3,0,14,596,Feature Correspondence Via Graph Matching: Models and Global Optimization.,0,2008,europe,False
+15686,eccv,ECCV (4),TU Dresden,Carsten Rother,3,0,15,15,Image Segmentation by Branch-and-Mincut.,0,2008,europe,False
+15687,icml,ICML,TU Dresden,Carsten Rother,5,0,8,480,On partial optimality in multi-label MRFs.,0,2008,europe,False
+15689,cvpr,CVPR,TU Dresden,Carsten Rother,6,0,8,1826,A perceptually motivated online benchmark for image matting.,0,2009,europe,False
+15690,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,8,501,A stereo approach that handles the matting problem via image warping.,0,2009,europe,False
+15691,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,8,1382,Minimizing sparse higher order energy functions of discrete variables.,0,2009,europe,False
+15692,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,8,659,New appearance models for natural image matting.,0,2009,europe,False
+15693,iccv,ICCV,TU Dresden,Carsten Rother,3,0,8,2319,A global perspective on MAP inference for low-level vision.,0,2009,europe,False
+15694,iccv,ICCV,TU Dresden,Carsten Rother,4,0,8,277,Image segmentation with a bounding box prior.,0,2009,europe,False
+15695,iccv,ICCV,TU Dresden,Carsten Rother,3,0,8,755,Joint optimization of segmentation and appearance models.,0,2009,europe,False
+15696,iccv,ICCV,TU Dresden,Carsten Rother,4,0,8,1925,Weakly supervised discriminative localization and classification: a joint learning process.,0,2009,europe,False
+15697,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,8,2149,A spatially varying PSF-based prior for alpha matting.,0,2010,europe,False
+15698,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,8,3129,Geodesic star convexity for interactive image segmentation.,0,2010,europe,False
+15699,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,8,1570,Surface stereo with soft segmentation.,0,2010,europe,False
+15700,eccv,ECCV (1),TU Dresden,Carsten Rother,4,0,14,143,Scene Carving: Scene Consistent Image Retargeting.,0,2010,europe,False
+15701,eccv,ECCV (2),TU Dresden,Carsten Rother,3,0,15,465,Cosegmentation Revisited: Models and Optimization.,0,2010,europe,False
+15703,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,8,2049,A global sampling method for alpha matting.,0,2011,europe,False
+15704,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,8,3017,Fast cost-volume filtering for visual correspondence and beyond.,0,2011,europe,False
+15705,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,8,2217,Object cosegmentation.,0,2011,europe,False
+15706,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,8,3081,Object stereo - Joint stereo matching and object segmentation.,0,2011,europe,False
+15707,iccv,ICCV,TU Dresden,Carsten Rother,6,0,8,1668,Decision tree fields.,0,2011,europe,False
+15708,nips,NIPS,TU Dresden,Carsten Rother,5,0,9,765,Recovering Intrinsic Images with a Global Sparsity Prior on Reflectance.,0,2011,europe,False
+15709,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,8,2376,"Regression Tree Fields - An efficient, non-parametric approach to image labeling problems.",0,2012,europe,False
+15710,eccv,ECCV (5),TU Dresden,Carsten Rother,3,0,15,467,Extracting 3D Scene-Consistent Object Proposals and Depth from Stereo Images.,0,2012,europe,False
+15711,eccv,ECCV (7),TU Dresden,Carsten Rother,3,0,14,112,Loss-Specific Training of Non-Parametric Image Restoration Models: A New State of the Art.,0,2012,europe,False
+15712,cvpr,CVPR,TU Dresden,Carsten Rother,11,0,8,1328,A Comparative Study of Modern Inference Techniques for Discrete Energy Minimization Problems.,0,2013,europe,False
+15713,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,8,1123,Depth Super Resolution by Rigid Body Self-Similarity in 3D.,0,2013,europe,False
+15714,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,8,604,Discriminative Non-blind Deblurring.,0,2013,europe,False
+15715,icml,ICML (3),TU Dresden,Carsten Rother,3,0,9,915,Learning Convex QP Relaxations for Structured Prediction.,0,2013,europe,False
+15716,nips,NIPS,TU Dresden,Carsten Rother,3,0,9,557,"Higher Order Priors for Joint Intrinsic Image, Objects, and Attributes Estimation.",0,2013,europe,False
+15717,cvpr,CVPR,TU Dresden,Carsten Rother,7,0,8,3214,Dense Semantic Image Segmentation with Objects and Attributes.,0,2014,europe,False
+15718,cvpr,CVPR,TU Dresden,Carsten Rother,3,0,8,3526,SphereFlow: 6 DoF Scene Flow from RGB-D Pairs.,0,2014,europe,False
+15719,eccv,ECCV (2),TU Dresden,Carsten Rother,6,0,16,536,Learning 6D Object Pose Estimation Using 3D Object Coordinates.,0,2014,europe,False
+15720,eccv,ECCV (3),TU Dresden,Carsten Rother,5,0,15,220,Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,0,2014,europe,False
+15721,eccv,ECCV (6),TU Dresden,Carsten Rother,4,0,16,269,Non-parametric Higher-Order Random Fields for Image Segmentation.,0,2014,europe,False
+15722,iccv,ICCV,TU Dresden,Carsten Rother,5,0,9,1814,Inferring M-Best Diverse Labelings in a Single One.,0,2015,europe,False
+15723,iccv,ICCV,TU Dresden,Carsten Rother,6,0,9,954,Learning Analysis-by-Synthesis for 6D Pose Estimation in RGB-D Images.,0,2015,europe,False
+15724,iccv,ICCV,TU Dresden,Carsten Rother,4,0,9,2291,Reflection Modeling for Passive Stereo.,0,2015,europe,False
+15725,nips,NIPS,TU Dresden,Carsten Rother,5,0,9,613,M-Best-Diverse Labelings for Submodular Energies and Beyond.,0,2015,europe,False
+15726,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,9,402,Convexity Shape Constraints for Image Segmentation.,0,2016,europe,False
+15727,cvpr,CVPR,TU Dresden,Carsten Rother,6,0,9,3364,Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image.,0,2016,europe,False
+15728,eccv,ECCV (2),TU Dresden,Carsten Rother,3,0,18,558,Stereo Video Deblurring.,0,2016,europe,False
+15730,nips,NIPS,TU Dresden,Carsten Rother,4,0,9,334,Joint M-Best-Diverse Labelings as a Parametric Submodular Minimization.,0,2016,europe,False
+15731,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,10,7062,A Study of Lagrangean Decompositions and Dual Ascent Solvers for Graph Matching.,0,2017,europe,False
+15732,cvpr,CVPR,TU Dresden,Carsten Rother,7,0,9,2492,DSAC - Differentiable RANSAC for Camera Localization.,0,2017,europe,False
+15733,cvpr,CVPR,TU Dresden,Carsten Rother,7,0,10,115,Global Hypothesis Generation for 6D Object Pose Estimation.,0,2017,europe,False
+15734,cvpr,CVPR,TU Dresden,Carsten Rother,5,0,10,7322,InstanceCut: From Edges to Instances with MultiCut.,0,2017,europe,False
+15736,cvpr,CVPR,TU Dresden,Carsten Rother,6,0,9,2566,PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning.,0,2017,europe,False
+15737,iccv,ICCV,TU Dresden,Carsten Rother,6,0,10,2593,"Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?",0,2017,europe,False
+15738,iccv,ICCV,TU Dresden,Carsten Rother,3,0,9,4596,Learning to Push the Limits of Efficient FFT-Based Image Deconvolution.,0,2017,europe,False
+15741,cvpr,CVPR,TU Dresden,Carsten Rother,2,0,9,4654,Learning Less Is More - 6D Camera Localization via 3D Surface Regression.,0,2018,europe,False
+15742,cvpr,CVPR,TU Dresden,Carsten Rother,4,0,9,4530,Trust Your Model: Light Field Depth Estimation With Inline Occlusion Handling.,0,2018,europe,False
+15743,eccv,ECCV (10),TU Dresden,Carsten Rother,16,0,17,19,BOP: Benchmark for 6D Object Pose Estimation.,0,2018,europe,False
+15744,eccv,ECCV (4),TU Dresden,Carsten Rother,4,0,18,264,"MPLP++: Fast, Parallel Dual Block-Coordinate Ascent for Dense Graphical Models.",0,2018,europe,False
+18031,www,WWW,TU Dresden,Christof Fetzer,5,0,12,1133,IncApprox: A Data Analytics System for Incremental Approximate Computing.,0,2016,europe,False
+34665,aaai,AAAI,TU Dresden,Franz Baader,1,0,6,621,Terminological Cycles in KL-ONE-based Knowledge Representation Languages.,0,1990,europe,False
+34666,ijcai,IJCAI,TU Dresden,Franz Baader,2,0,6,452,A Scheme for Integrating Concrete Domains into Concept Languages.,0,1991,europe,False
+34667,ijcai,IJCAI,TU Dresden,Franz Baader,1,0,6,446,Augmenting Concept Languages by Transitive Closure of Roles: An Alternative to Terminological Cycles.,0,1991,europe,False
+34668,ijcai,IJCAI,TU Dresden,Franz Baader,2,0,7,669,How to Prefer More Specific Defaults in Terminological Default Logic.,0,1993,europe,False
+34670,ijcai,IJCAI,TU Dresden,Franz Baader,3,0,8,96,Computing Least Common Subsumers in Description Logics with Existential Restrictions.,0,1999,europe,False
+34671,ijcai,IJCAI,TU Dresden,Franz Baader,3,0,6,213,Matching under Side Conditions in Description Logics.,0,2001,europe,False
+34672,ijcai,IJCAI,TU Dresden,Franz Baader,1,0,6,319,Least Common Subsumers and Most Specific Concepts in a Description Logic with Existential Restrictions and Terminological Cycles.,0,2003,europe,False
+34673,ijcai,IJCAI,TU Dresden,Franz Baader,1,0,6,325,Terminological Cycles in a Description Logic with Existential Restrictions.,0,2003,europe,False
+34675,ijcai,IJCAI,TU Dresden,Franz Baader,3,0,6,364,Pushing the EL Envelope.,0,2005,europe,False
+34676,ijcai,IJCAI,TU Dresden,Franz Baader,4,0,6,230,Completing Description Logic Knowledge Bases Using Formal Concept Analysis.,0,2007,europe,False
+34677,ijcai,IJCAI,TU Dresden,Franz Baader,3,0,7,786,Query Rewriting for DL-Lite with n-ary Concrete Domains.,0,2017,europe,False
+41666,acl,ACL,TU Dresden,Heiko Vogler,3,0,9,1058,Efficient Inference through Cascades of Weighted Tree Transducers.,0,2010,europe,False
+41667,acl,ACL (1),TU Dresden,Heiko Vogler,3,0,10,145,General binarization for parsing and translation.,0,2013,europe,False
+98861,aaai,AAAI,TU Dresden,Sebastian Rudolph,3,0,6,452,Complexity Boundaries for Horn Description Logics.,0,2007,europe,False
+98862,aaai,AAAI,TU Dresden,Sebastian Rudolph,3,0,6,529,Terminological Reasoning in SHIQ with Ordered Binary Decision Diagrams.,0,2008,europe,False
+98864,acl,ACL,TU Dresden,Sebastian Rudolph,2,0,10,907,Compositional Matrix-Space Models of Language.,0,2010,europe,False
+98865,aaai,AAAI,TU Dresden,Sebastian Rudolph,2,0,-1,-1,Revisiting Semantics for Epistemic Extensions of Description Logics.,0,2011,europe,False
+98866,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,2,0,6,963,Extending Decidable Existential Rules by Joining Acyclicity and Guardedness.,0,2011,europe,False
+98867,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,3,0,6,1039,Query Answering in the Horn Fragments of the Description Logics SHOIQ and SROIQ.,0,2011,europe,False
+98868,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,3,0,6,1027,Reasoning-Supported Interactive Revision of Knowledge Bases.,0,2011,europe,False
+98869,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,4,0,6,712,Walking the Complexity Lines for Generalized Guarded Existential Rules.,0,2011,europe,False
+98870,www,WWW,TU Dresden,Sebastian Rudolph,4,0,10,635,EP-SPARQL: a unified language for event processing and stream reasoning.,0,2011,europe,False
+98873,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,2,0,7,3193,Characterization of the Expressivity of Existential Rule Queries.,0,2015,europe,False
+98874,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,3,0,7,3186,Membership Constraints in Formal Concept Analysis.,0,2015,europe,False
+98875,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,3,0,7,2985,On the Computational Complexity of Naive-Based Semantics for Abstract Dialectical Frameworks.,0,2015,europe,False
+98876,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,3,0,7,2826,Reasonable Highly Expressive Query Languages - IJCAI-15 Distinguished Paper (Honorary Mention).,0,2015,europe,False
+98877,ijcai,IJCAI,TU Dresden,Sebastian Rudolph,2,0,7,1230,Expressivity of Datalog Variants - Completing the Picture.,0,2016,europe,False
+17775,acl,ACL,TU Darmstadt,Christian Biemann,1,0,-1,-1,Unsupervised Part-of-Speech Tagging Employing Efficient Graph Clustering.,0,2006,europe,True
+17776,naacl,HLT-NAACL,TU Darmstadt,Christian Biemann,1,0,8,105,A Random Text Model for the Generation of Statistical Language Invariants.,0,2007,europe,True
+17777,emnlp,EMNLP,TU Darmstadt,Christian Biemann,2,0,7,884,Scaling to Large3 Data: An Efficient and Effective Method to Compute Distributional Thesauri.,0,2013,europe,True
+17778,naacl,HLT-NAACL,TU Darmstadt,Christian Biemann,3,0,11,1131,Supervised All-Words Lexical Substitution using Delexicalized Features.,0,2013,europe,True
+17779,naacl,HLT-NAACL,TU Darmstadt,Christian Biemann,2,0,11,989,Three Knowledge-Free Methods for Automatic Lexical Chain Extraction.,0,2013,europe,True
+17781,emnlp,EMNLP,TU Darmstadt,Christian Biemann,2,0,11,2430,A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics.,0,2015,europe,True
+17782,naacl,HLT-NAACL,TU Darmstadt,Christian Biemann,4,0,7,970,Do Supervised Distributional Methods Really Learn Lexical Inference Relations?,0,2015,europe,True
+17783,acl,ACL (1),TU Darmstadt,Christian Biemann,2,0,-1,-1,Language Transfer Learning for Supervised Lexical Substitution.,0,2016,europe,True
+17784,naacl,HLT-NAACL,TU Darmstadt,Christian Biemann,2,0,6,617,Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods.,0,2016,europe,True
+17785,acl,ACL (1),TU Darmstadt,Christian Biemann,3,0,12,1579,Automatic Induction of Synsets from a Graph of Synonyms.,0,2017,europe,True
+17786,acl,ACL (2),TU Darmstadt,Christian Biemann,5,0,8,55,Unsupervised Semantic Frame Induction using Triclustering.,0,2018,europe,True
+27615,eccv,ECCV (1),TU Darmstadt,Dieter W. Fellner,6,0,15,563,On Spatial Quantization of Color Images.,0,1998,europe,True
+27616,cvpr,CVPR,TU Darmstadt,Dieter W. Fellner,7,0,8,1640,Irregular lattices for complex shape grammar facade parsing.,0,2012,europe,True
+36938,nips,NIPS,TU Darmstadt,Gerhard Neumann,2,0,8,1177,Fitted Q-iteration by Advantage Weighted Regression.,0,2008,europe,True
+36939,icml,ICML,TU Darmstadt,Gerhard Neumann,3,0,8,753,Learning complex motions by sequencing simpler motion templates.,0,2009,europe,True
+36940,icml,ICML,TU Darmstadt,Gerhard Neumann,1,0,8,817,Variational Inference for Policy Search in changing situations.,0,2011,europe,True
+36943,aaai,AAAI,TU Darmstadt,Gerhard Neumann,4,0,-1,-1,Data-Efficient Generalization of Robot Skills with Contextual Policy Search.,0,2013,europe,True
+36945,nips,NIPS,TU Darmstadt,Gerhard Neumann,4,0,9,2616,Probabilistic Movement Primitives.,0,2013,europe,True
+36955,nips,NIPS,TU Darmstadt,Gerhard Neumann,6,0,9,3537,Model-Based Relative Entropy Stochastic Search.,0,2015,europe,True
+36956,aaai,AAAI,TU Darmstadt,Gerhard Neumann,3,0,7,2222,Model-Free Preference-Based Reinforcement Learning.,0,2016,europe,True
+36957,icml,ICML,TU Darmstadt,Gerhard Neumann,4,0,10,2961,Model-Free Trajectory Optimization for Reinforcement Learning.,0,2016,europe,True
+36962,nips,NIPS,TU Darmstadt,Gerhard Neumann,4,0,9,1426,Catching heuristics are optimal control policies.,0,2016,europe,True
+36963,aaai,AAAI,TU Darmstadt,Gerhard Neumann,6,0,7,2632,Policy Search with High-Dimensional Context Variables.,0,2017,europe,True
+36964,aaai,AAAI,TU Darmstadt,Gerhard Neumann,3,0,7,3754,The Kernel Kalman Rule - Efficient Nonparametric Inference with Recursive Least Squares.,0,2017,europe,True
+36965,icml,ICML,TU Darmstadt,Gerhard Neumann,4,0,10,41,Local Bayesian Optimization of Motor Skills.,0,2017,europe,True
+36969,ijcai,IJCAI,TU Darmstadt,Gerhard Neumann,5,0,8,1378,Contextual Covariance Matrix Adaptation Evolutionary Strategies.,0,2017,europe,True
+36971,icml,ICML,TU Darmstadt,Gerhard Neumann,3,0,10,234,Efficient Gradient-Free Variational Inference using Policy Search.,0,2018,europe,True
+45767,naacl,HLT-NAACL,TU Darmstadt,Iryna Gurevych,4,0,-1,-1,Semantic Coherence Scoring Using an Ontology.,0,2003,europe,True
+45768,acl,ACL,TU Darmstadt,Iryna Gurevych,3,0,-1,-1,Automatically Assessing the Post Quality in Online Discussions on Software.,0,2007,europe,True
+45769,acl,ACL,TU Darmstadt,Iryna Gurevych,3,0,-1,-1,What to be? - Electronic Career Guidance Based on Semantic Relatedness.,0,2007,europe,True
+45771,aaai,AAAI,TU Darmstadt,Iryna Gurevych,3,0,6,861,Using Wiktionary for Computing Semantic Relatedness.,0,2008,europe,True
+45772,acl,ACL/IJCNLP,TU Darmstadt,Iryna Gurevych,2,0,9,728,Combining Lexical Semantic Resources with Question & Answer Archives for Translation-Based Answer Finding.,0,2009,europe,True
+45773,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,10,1338,A Study on the Semantic Relatedness of Query and Document Terms in Information Retrieval.,0,2009,europe,True
+45774,acl,ACL,TU Darmstadt,Iryna Gurevych,3,0,10,575,Sentence and Expression Level Annotation of Opinions in User-Generated Discourse.,0,2010,europe,True
+45776,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,11,1035,Extracting Opinion Targets in a Single and Cross-Domain Setting with Conditional Random Fields.,0,2010,europe,True
+45777,acl,ACL (1),TU Darmstadt,Iryna Gurevych,2,0,11,1363,FrameNet on the Way to Babel: Creating a Bilingual FrameNet Using Wiktionary as Interlingual Connection.,0,2013,europe,True
+45778,acl,ACL (1),TU Darmstadt,Iryna Gurevych,3,0,10,721,The Impact of Topic Bias on Quality Flaw Prediction in Wikipedia.,0,2013,europe,True
+45779,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,12,578,Automatically Classifying Edit Categories in Wikipedia Revisions.,0,2013,europe,True
+45781,acl,ACL (2),TU Darmstadt,Iryna Gurevych,2,0,6,187,Automatically Detecting Corresponding Edit-Turn-Pairs in Wikipedia.,0,2014,europe,True
+45782,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,11,46,Identifying Argumentative Discourse Structures in Persuasive Essays.,0,2014,europe,True
+45783,www,WWW,TU Darmstadt,Iryna Gurevych,3,0,12,855,What makes a good biography?: multidimensional quality analysis based on wikipedia article feedback data.,0,2014,europe,True
+45784,acl,ACL (1),TU Darmstadt,Iryna Gurevych,2,0,11,719,Automatic disambiguation of English puns.,0,2015,europe,True
+45785,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,11,2127,Exploiting Debate Portals for Semi-Supervised Argumentation Mining in User-Generated Web Discourse.,0,2015,europe,True
+45786,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,7,291,Noise or additional information? Leveraging crowdsource annotation item agreement for natural language tasks.,0,2015,europe,True
+45787,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,3,0,7,2236,On the Role of Discourse Markers for Discriminating Claims and Premises in Argumentative Discourse.,0,2015,europe,True
+45788,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,12,1805,Personality Profiling of Fictional Characters using Sense-Level Links between Lexical Resources.,0,2015,europe,True
+45789,acl,ACL (1),TU Darmstadt,Iryna Gurevych,2,0,-1,-1,"Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization.",0,2016,europe,True
+45790,acl,ACL (1),TU Darmstadt,Iryna Gurevych,3,0,-1,-1,Temporal Anchoring of Events for the TimeBank Corpus.,0,2016,europe,True
+45791,acl,ACL (1),TU Darmstadt,Iryna Gurevych,2,0,-1,-1,Which argument is more convincing? Analyzing and predicting convincingness of Web arguments using bidirectional LSTM.,0,2016,europe,True
+45793,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,10,1214,What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation.,0,2016,europe,True
+45794,acl,ACL (1),TU Darmstadt,Iryna Gurevych,3,0,12,11,Neural End-to-End Learning for Computational Argumentation Mining.,0,2017,europe,True
+45797,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,11,2951,Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps.,0,2017,europe,True
+45798,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,6,1784,Context-Aware Representations for Knowledge Base Relation Extraction.,0,2017,europe,True
+45799,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,2,0,11,338,Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging.,0,2017,europe,True
+45800,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,5,0,12,2055,What is the Essence of a Claim? Cross-Domain Claim Identification.,0,2017,europe,True
+45801,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,3,0,11,4120,APRIL: Interactively Learning to Summarise by Combining Active Preference Learning and Reinforcement Learning.,0,2018,europe,True
+45802,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,5,0,11,3664,Cross-topic Argument Mining from Heterogeneous Sources.,0,2018,europe,True
+45803,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,3,0,10,4415,Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks.,0,2018,europe,True
+45804,emnlp,EMNLP,TU Darmstadt,Iryna Gurevych,3,0,13,1412,Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations.,0,2018,europe,True
+45805,naacl,NAACL-HLT,TU Darmstadt,Iryna Gurevych,4,0,11,386,Before Name-Calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation.,0,2018,europe,True
+45806,naacl,NAACL-HLT,TU Darmstadt,Iryna Gurevych,5,0,11,1481,Multimodal Frame Identification with Multilingual Evaluation.,0,2018,europe,True
+45807,naacl,NAACL-HLT,TU Darmstadt,Iryna Gurevych,4,0,11,1930,The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants.,0,2018,europe,True
+48279,icml,ICML,TU Darmstadt,Jan Peters 0001,2,0,6,745,Reinforcement learning by reward-weighted regression for operational space control.,0,2007,europe,True
+48282,aaai,AAAI,TU Darmstadt,Jan Peters 0001,4,0,6,1351,Adaptive Importance Sampling with Automatic Model Selection in Value Function Approximation.,0,2008,europe,True
+48287,nips,NIPS,TU Darmstadt,Jan Peters 0001,3,0,8,1193,Local Gaussian Process Regression for Real Time Online Model Learning.,0,2008,europe,True
+48288,nips,NIPS,TU Darmstadt,Jan Peters 0001,2,0,8,849,Policy Search for Motor Primitives in Robotics.,0,2008,europe,True
+48289,nips,NIPS,TU Darmstadt,Jan Peters 0001,3,0,8,297,Using Bayesian Dynamical Systems for Motion Template Libraries.,0,2008,europe,True
+48294,aaai,AAAI,TU Darmstadt,Jan Peters 0001,3,0,-1,-1,Relative Entropy Policy Search.,0,2010,europe,True
+48299,nips,NIPS,TU Darmstadt,Jan Peters 0001,2,0,9,388,Movement extraction by detecting dynamics switches and repetitions.,0,2010,europe,True
+48300,nips,NIPS,TU Darmstadt,Jan Peters 0001,4,0,9,55,Switched Latent Force Models for Movement Segmentation.,0,2010,europe,True
+48306,ijcai,IJCAI,TU Darmstadt,Jan Peters 0001,3,0,6,2650,Reinforcement Learning to Adjust Robot Movements to New Situations.,0,2011,europe,True
+48312,nips,NIPS,TU Darmstadt,Jan Peters 0001,2,0,9,1719,A Non-Parametric Approach to Dynamic Programming.,0,2011,europe,True
+48351,icml,ICML,TU Darmstadt,Jan Peters 0001,6,0,10,545,Stability of Controllers for Gaussian Process Forward Models.,0,2016,europe,True
+48368,icml,ICML,TU Darmstadt,Jan Peters 0001,4,0,10,4062,PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos.,0,2018,europe,True
+61101,icml,ICML,TU Darmstadt,Kristian Kersting,3,0,-1,-1,Bellman goes relational.,0,2004,europe,True
+61102,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,6,752,Towards Learning Stochastic Logic Programs from Proof-Banks.,0,2005,europe,True
+61103,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,6,795,nFOIL: Integrating Nave Bayes and FOIL.,0,2005,europe,True
+61106,icml,ICML,TU Darmstadt,Kristian Kersting,4,0,8,393,Most likely heteroscedastic Gaussian process regression.,0,2007,europe,True
+61108,aaai,AAAI,TU Darmstadt,Kristian Kersting,5,0,7,1062,Lifted Probabilistic Inference with Counting Formulas.,0,2008,europe,True
+61109,icml,ICML,TU Darmstadt,Kristian Kersting,2,0,8,456,Non-parametric policy gradients: a unified treatment of propositional and relational domains.,0,2008,europe,True
+61111,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,3,0,6,1916,Generalized First Order Decision Diagrams for First Order Markov Decision Processes.,0,2009,europe,True
+61112,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,3,0,6,1309,Multi-Relational Learning with Gaussian Processes.,0,2009,europe,True
+61113,aaai,AAAI,TU Darmstadt,Kristian Kersting,4,0,-1,-1,Informed Lifting for Message-Passing.,0,2010,europe,True
+61114,aaai,AAAI,TU Darmstadt,Kristian Kersting,2,0,-1,-1,Symbolic Dynamic Programming for First-order POMDPs.,0,2010,europe,True
+61116,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,-1,-1,Markov Logic Sets: Towards Lifted Information Retrieval Using PageRank and Label Propagation.,0,2011,europe,True
+61117,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,5,0,7,1414,Imitation Learning in Relational Domains: A Functional-Gradient Boosting Approach.,0,2011,europe,True
+61118,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,3,0,7,1152,"Multi-Evidence Lifted Message Passing, with Application to PageRank and the Kalman Filter.",0,2011,europe,True
+61119,aaai,AAAI,TU Darmstadt,Kristian Kersting,10,0,-1,-1,Pre-Symptomatic Prediction of Plant Drought Stress Using Dirichlet-Aggregation Regression on Hyperspectral Images.,0,2012,europe,True
+61120,nips,NIPS,TU Darmstadt,Kristian Kersting,4,0,9,1403,Symbolic Dynamic Programming for Continuous State and Observation POMDPs.,0,2012,europe,True
+61121,aaai,AAAI,TU Darmstadt,Kristian Kersting,2,0,-1,-1,Reduce and Re-Lift: Bootstrapped Lifted Likelihood Maximization for MAP.,0,2013,europe,True
+61122,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,7,2403,Lifting Relational MAP-LPs Using Cluster Signatures.,0,2014,europe,True
+61123,aaai,AAAI,TU Darmstadt,Kristian Kersting,4,0,7,1904,Power Iterated Color Refinement.,0,2014,europe,True
+61125,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,4,0,7,171,Computer Science on the Move: Inferring Migration Regularities from the Web via Compressed Label Propagation.,0,2015,europe,True
+61126,aaai,AAAI,TU Darmstadt,Kristian Kersting,4,0,7,2265,Learning Continuous-Time Bayesian Networks in Relational Domains: A Non-Parametric Approach.,0,2016,europe,True
+61127,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,5,0,7,2060,Learning Using Unselected Features (LUFe).,0,2016,europe,True
+61128,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,7,2350,Lifted Inference for Convex Quadratic Programs.,0,2017,europe,True
+61129,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,7,2357,Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions.,0,2017,europe,True
+61130,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,7,1199,The Symbolic Interior Point Method.,0,2017,europe,True
+61131,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,3,0,7,3189,Stochastic Online Anomaly Analysis for Streaming Time Series.,0,2017,europe,True
+61132,aaai,AAAI,TU Darmstadt,Kristian Kersting,3,0,8,3820,Core Dependency Networks.,0,2018,europe,True
+61133,aaai,AAAI,TU Darmstadt,Kristian Kersting,6,0,8,3828,Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains.,0,2018,europe,True
+61134,aaai,AAAI,TU Darmstadt,Kristian Kersting,6,0,8,4163,Sum-Product Autoencoding: Encoding and Decoding Representations Using Sum-Product Networks.,0,2018,europe,True
+61136,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,5,0,7,5031,Efficient Symbolic Integration for Probabilistic Inference.,0,2018,europe,True
+61137,ijcai,IJCAI,TU Darmstadt,Kristian Kersting,5,0,7,5067,Lifted Filtering via Exchangeable Decomposition.,0,2018,europe,True
+73534,cvpr,CVPR,TU Darmstadt,Michael Goesele,3,0,8,1386,Modulation transfer function of patch-based stereo systems.,0,2012,europe,True
+73535,cvpr,CVPR,TU Darmstadt,Michael Goesele,4,0,8,262,Photometric stereo for outdoor webcams.,0,2012,europe,True
+73538,eccv,ECCV (5),TU Darmstadt,Michael Goesele,3,0,15,836,Let There Be Color! Large-Scale Texturing of 3D Reconstructions.,0,2014,europe,True
+73540,eccv,ECCV (3),TU Darmstadt,Michael Goesele,4,0,17,469,Shading-Aware Multi-view Stereo.,0,2016,europe,True
+73545,cvpr,CVPR,TU Darmstadt,Michael Goesele,4,0,9,9108,Detail-Preserving Pooling in Deep Networks.,0,2018,europe,True
+104478,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,8,1751,A generative perspective on MRFs in low-level vision.,0,2010,europe,True
+104484,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,8,2625,Bayesian deblurring with integrated noise estimation.,0,2011,europe,True
+104485,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,8,2641,Connecting non-quadratic variational models and MRFs.,0,2011,europe,True
+104487,iccv,ICCV,TU Darmstadt,Stefan Roth 0001,3,0,8,1291,3D scene flow estimation with a rigid motion prior.,0,2011,europe,True
+104488,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,8,1926,Discrete-continuous optimization for multi-target tracking.,0,2012,europe,True
+104489,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,8,2050,Learning rotation-aware features: From invariant priors to equivariant descriptors.,0,2012,europe,True
+104490,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,8,3682,Detection- and Trajectory-Level Exclusion in Multiple Object Tracking.,0,2013,europe,True
+104493,iccv,ICCV,TU Darmstadt,Stefan Roth 0001,3,0,8,1377,Piecewise Rigid Scene Flow.,0,2013,europe,True
+104494,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,8,2774,Shrinkage Fields for Effective Image Restoration.,0,2014,europe,True
+104495,eccv,ECCV (4),TU Darmstadt,Stefan Roth 0001,3,0,16,263,View-Consistent 3D Scene Flow Estimation over Multiple Frames.,0,2014,europe,True
+104496,eccv,ECCV (5),TU Darmstadt,Stefan Roth 0001,4,0,16,533,Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding.,0,2014,europe,True
+104497,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,9,1128,Discriminative shape from shading in uncalibrated illumination.,0,2015,europe,True
+104498,iccv,ICCV,TU Darmstadt,Stefan Roth 0001,2,0,9,2030,Registering Images to Untextured Geometry Using Average Shading Gradients.,0,2015,europe,True
+104499,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,9,1846,Parametric Object Motion from Blur.,0,2016,europe,True
+104501,eccv,ECCV (2),TU Darmstadt,Stefan Roth 0001,4,0,17,102,Playing for Data: Ground Truth from Computer Games.,0,2016,europe,True
+104503,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,10,2750,Benchmarking Denoising Algorithms with Real Photographs.,0,2017,europe,True
+104505,iccv,ICCV,TU Darmstadt,Stefan Roth 0001,2,0,10,312,MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation.,0,2017,europe,True
+104506,iccv,ICCV,TU Darmstadt,Stefan Roth 0001,3,0,10,1182,ProbFlow: Joint Optical Flow and Uncertainty Estimation.,0,2017,europe,True
+104507,aaai,AAAI,TU Darmstadt,Stefan Roth 0001,3,0,9,7251,UnFlow: Unsupervised Learning of Optical Flow With a Bidirectional Census Loss.,0,2018,europe,True
+104509,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,10,3369,Lightweight Probabilistic Deep Networks.,0,2018,europe,True
+104510,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,2,0,9,1936,Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers.,0,2018,europe,True
+104511,cvpr,CVPR,TU Darmstadt,Stefan Roth 0001,3,0,10,1566,Stochastic Variational Inference With Gradient Linearization.,0,2018,europe,True
+104514,nips,NeurIPS,TU Darmstadt,Stefan Roth 0001,2,0,12,1095,Neural Nearest Neighbors Networks.,0,2018,europe,True
+19616,www,WWW,University of Koblenz-Landau,Claudia Wagner,4,0,12,735,Semantic stability in social tagging streams.,0,2014,europe,False
+19617,www,WWW,University of Koblenz-Landau,Claudia Wagner,5,0,10,1181,Sampling from Social Networks with Attributes.,0,2017,europe,False
+58259,acl,ACL,University of Koblenz-Landau,Karin Harbusch,1,0,8,284,An Efficient Parsing Algorithm for Tree Adjoining Grammars.,0,1990,europe,False
+72177,ijcai,IJCAI,University of Koblenz-Landau,Matthias Thimm,3,0,7,332,Opponent Models with Uncertainty for Strategic Argumentation.,0,2013,europe,False
+72178,ijcai,IJCAI,University of Koblenz-Landau,Matthias Thimm,2,0,8,3156,Probabilistic Reasoning with Inconsistent Beliefs Using Inconsistency Measures.,0,2015,europe,False
+72179,ijcai,IJCAI,University of Koblenz-Landau,Matthias Thimm,4,0,7,3623,Group Decision Making via Probabilistic Belief Merging.,0,2016,europe,False
+72180,ijcai,IJCAI,University of Koblenz-Landau,Matthias Thimm,3,0,7,901,Strong Inconsistency in Nonmonotonic Reasoning.,0,2017,europe,False
+72181,aaai,AAAI,University of Koblenz-Landau,Matthias Thimm,3,0,8,1989,Measuring Strong Inconsistency.,0,2018,europe,False
+105022,aaai,AAAI/IAAI,University of Koblenz-Landau,Steffen Staab,2,0,6,616,Comparatives in Context.,0,1997,europe,False
+105023,ijcai,IJCAI,University of Koblenz-Landau,Steffen Staab,2,0,6,1247,Scalable Temporal Reasoning.,0,1999,europe,False
+105027,www,WWW,University of Koblenz-Landau,Steffen Staab,3,0,10,640,Remindin': semantic query routing in peer-to-peer networks based on social metaphors.,0,2004,europe,False
+105031,www,WWW,University of Koblenz-Landau,Steffen Staab,2,0,10,585,"Networked graphs: a declarative mechanism for SPARQL rules, SPARQL views and RDF data integration on the web.",0,2008,europe,False
+105032,www,WWW,University of Koblenz-Landau,Steffen Staab,4,0,10,625,Querying for meta knowledge.,0,2008,europe,False
+105035,acl,ACL (1),University of Koblenz-Landau,Steffen Staab,6,0,10,1145,A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing.,0,2014,europe,False
+60538,nips,NIPS,TU Braunschweig,Konrad Rieck,3,0,8,1177,Computation of Similarity Measures for Sequential Data using Generalized Suffix Trees.,0,2006,europe,False
+68303,cvpr,CVPR (1),TU Braunschweig,Marcus A. Magnor,2,0,6,683,Joint 3D-Reconstruction and Background Separation in Multiple Views using Graph Cuts.,0,2003,europe,False
+68305,cvpr,CVPR (1),TU Braunschweig,Marcus A. Magnor,2,0,6,350,Space-Time Isosurface Evolution for Temporally Coherent 3D Reconstruction.,0,2004,europe,False
+68306,eccv,ECCV (2),TU Braunschweig,Marcus A. Magnor,2,0,13,366,Weighted Minimal Hypersurfaces and Their Applications in Computer Vision.,0,2004,europe,False
+68309,iccv,ICCV,TU Braunschweig,Marcus A. Magnor,3,0,6,1055,Reconstructing the Geometry of Flowing Water.,0,2005,europe,False
